@@ -1,0 +1,17 @@
+250-p1.p1	mslugxrm5s10_p1	CRC(81f1f60b)
+250-p2.ep1	mslugxrm5s10_p2	CRC(1fda2e12)
+250-s1.s1	mslugxrm5s10_s1	CRC(fb6f441d)
+250-c1.c1	mslugxrm5s10_c1	CRC(09a52c6f)
+250-c2.c2	mslugxrm5s10_c2	CRC(31679821)
+	
+
+[zh_CN]
+整体修改/堕落天使 2020-03-23
+
+修改者: Team Remix(Gaston90,Shyma.X,kof1996,DDJ,julee,Creamymami [EGCG])
+时间: 2020-03-23
+
+说明: 
+1、时间、修改者信息来源于 hbmame 源码，信息准确性无法核实
+2、hbmame 驱动中对此游戏使用了 uni_4.0 的 BIOS，建议使用前切换
+3、游戏中语言、语音非日语及英语 (可能是法语)

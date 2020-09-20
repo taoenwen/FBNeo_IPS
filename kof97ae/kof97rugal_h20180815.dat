@@ -1,0 +1,69 @@
+kof97ae-p1.p1	kof97rugal_h20180815_p1	CRC(e453b221)
+kof97ae-p2.sp2	kof97rugal_h20180815_p2	CRC(f00ba90d)
+kof97ae-s1.s1	kof97rugal_h20180815_s1	CRC(30a6b3b8)
+kof97ae-c1.c1	kof97rugal_h20180815_c1	CRC(5f0133eb)
+kof97ae-c2.c2	kof97rugal_h20180815_c2	CRC(136b8449)
+kof97ae-c5.c5	kof97rugal_h20180815_c5	CRC(8167b444)
+kof97ae-c6.c6	kof97rugal_h20180815_c6	CRC(a410f3ca)
+kof97ae-c7.c7	kof97rugal_h20180815_c7	CRC(50a48a56)
+kof97ae-c8.c8	kof97rugal_h20180815_c8	CRC(80d7ec00)
+kof97ae-m1.m1	kof97rugal_h20180815_m1	CRC(f7b7ee13)
+
+[en_US]
+Overall/Orochi Leona was replaced by Rugal (Ver. 0.7)
+
+Hacked by Ice Flame Fantasy & Daybreak
+
+2018-08-15
+
+Rugal's voice is Orochi Leona's voice.
+
+[zh_CN]
+整体修改/暴走莉安娜替换为卢卡尔 (版本 0.7)
+
+修改者: 冰炎梦幻 & 眼中的黎明
+
+2018-08-15
+
+说明：
+
+卢卡尔的声音为暴走莉安娜的声音
+
+****暴走丽安娜替换98卢卡尔v0.7****
+修正凯撒波taskover问题
+修正凯撒波被躲避后不能发的问题
+修正巨人压杀残影的颜色
+****BY 冰炎梦幻
+
+****暴走丽安娜替换98卢卡尔v0.6****
+增加凯撒波 →←↓→+A或C
+增加重力机器 ↓↘→+A或C
+增加空中重力机器 空中↓↘→+A或C
+增加特殊技 双鹰秃 →+B
+增加毁灭压杀 →↓←+A或C
+****BY 冰炎梦幻
+
+****暴走丽安娜替换98卢卡尔v0.5****
+优化出招排序
+增加黑暗制裁 ↓↘→+B或D
+增加惊异的死亡终结↓↘→↓↘→+B或D
+没有增加的招式调用到其他地方使其不会出现卡屏现象
+****BY 冰炎梦幻
+
+****暴走丽安娜替换98卢卡尔v0.3****
+修正了大部分被攻击的BUG
+修正了大部分老卢的颜色
+巨人压杀[超必杀] 出招↓↘→↓←+A或C
+暗黑灭绝 出招→↓→+B或D
+****BY 冰炎梦幻
+
+****暴走丽安娜替换98卢卡尔v0.2****
+增加巨人压杀[超必杀] ↓↙←↓→+B或D
+****BY 冰炎梦幻
+
+****暴走丽安娜替换98卢卡尔v0.1****
+此hack只是为了抛砖引玉，
+希望更多的hack玩家明白hack的强大，
+也希望各位体谅每位作者的劳动成果。
+只加了剪刀脚 24B/D
+****BY 眼中的黎明

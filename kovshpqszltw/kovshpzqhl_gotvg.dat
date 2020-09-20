@@ -1,0 +1,21 @@
+p0600h_101_po119.rom	kovshpzqhl_gotvg_p0600	CRC(4c2be2a2)
+t0600_pw10.rom	kovshpzqhl_gotvg_t0600	CRC(a919ec0f)
+a0600_po73.rom	kovshpzqhl_gotvg_a0600	CRC(72643288)
+a0601_po73.rom	kovshpzqhl_gotvg_a0601	CRC(9c1d1bea)
+a0602_po73.rom	kovshpzqhl_gotvg_a0602	CRC(7b437e0f)
+a0540_po89.rom	kovshpzqhl_gotvg_a0540	CRC(b038e568)
+a0541_po73.rom	kovshpzqhl_gotvg_a0603	CRC(1fa3c921)  // a0603 only 0x200000
+b0600_po73.rom	kovshpzqhl_gotvg_b0600	CRC(0646c5ef)
+b0540_po89.rom	kovshpzqhl_gotvg_b0540	CRC(03a1641e)
+m0600_po69.rom	kovshpzqhl_gotvg_m0600	CRC(ec3f335d)
+kovsh_v100_china_po89.asic	kovshpzqhl_gotvg_v100	CRC(4627f36f)
+
+[en_US]
+Overall/The Best firepower (GOTVG)
+
+2019-12-04
+
+[zh_CN]
+整体修改/最强火力 (游聚)
+
+最后文件日期: 2019-12-04

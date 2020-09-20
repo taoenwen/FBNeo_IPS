@@ -1,0 +1,23 @@
+272-p1.bin	us_story_1st_fix	CRC(9e72cc83)
+
+[en_US]
+Translation/Translation hack patch for story mode in English 1st Fix :
+fix story sequences loop after each battle and 2nd attract mode loop issue.
+
+Works on AES and MVS for regions other than Japanese 
+
+hack by ack & fandagos
+
+2020-06-21
+
+[zh_CN]
+语言翻译/标题完美版 & 添加英语剧情的第一次修复
+
+修改者: hack by ack & fandagos
+
+时间: 2020-06-21
+
+说明:
+1、修复每一关开始前黑子重复首关剧情的问题
+
+

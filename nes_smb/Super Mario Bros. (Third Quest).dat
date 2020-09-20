@@ -1,0 +1,28 @@
+﻿"Super Mario Bros. (World).nes"	"Super Mario Bros. (Third Quest)"	CRC(3337ec46)
+
+[en_US]
+Overall/Third Quest
+
+Hack by famiclone
+
+Date 2020-08-24
+
+Description:
+This patch has a number of enhancements on top of the pre-enabled built-in “new quest.”
+
+A new type of enemy, the “Spiny Beetle” has replaced the Goomba/Buzzy Beetle.
+Piranha plants are enabled on 1-1.
+When hitting enemies from below, they change direction much like the Spiny (instead of flipping).
+
+[zh_CN]
+整体修改/第三次任务
+
+修改者: famiclone
+
+日期: 2020-08-24
+
+描述：
+更新图形
+一种新型的敌人，"尖甲虫"取代了贡巴/巴兹甲壳虫。
+皮兰哈植物在 1-1 启用。
+当从下面击中敌人时，他们改变方向很像脊柱（而不是翻转）。

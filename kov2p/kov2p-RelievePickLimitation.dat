@@ -1,0 +1,10 @@
+v205_32m.u8	kov2p-RelievePickLimitation	CRC(3a2cc0de)
+
+[zh_CN]
+局部修改/解除物品拾取限制
+
+修改者: GaTo
+
+说明:
+所有角色限定物品皆可直接拾取，
+如非本角色武器/七星灯/木牛流马等

@@ -1,0 +1,25 @@
+265ps2-p1.bin	kof2k2s103_p1	CRC(336c4ca8)
+265ps2-p2.bin	kof2k2s103_p2	CRC(cb0032bf)
+265ps2-s1.bin	kof2k2s103_s1	CRC(714ade47)
+265-c1_decrypted.bin	kof2k2s103_c1	CRC(7efa6ef7)
+265-c2_decrypted.bin	kof2k2s103_c2	CRC(aa82948b)
+265-c3_decrypted.bin	kof2k2s103_c3	CRC(959fad0b)
+265-c4_decrypted.bin	kof2k2s103_c4	CRC(efe6a468)
+265-c5_decrypted.bin	kof2k2s103_c5	CRC(74bba7c6)
+265-c6_decrypted.bin	kof2k2s103_c6	CRC(e20d2216)
+265ps2-c7.bin	kof2k2s103_c7	CRC(1b1d35fb)
+265ps2-c8.bin	kof2k2s103_c8	CRC(a5e35d11)
+265ps2-p1.bin	kf2k2ps2TimePatch	CRC(336c4ca8)
+
+[en_US]
+Overall/omega Playstation 2 Edition
+
+2020-02-16
+
+hack only enable in AES mode
+
+[zh_CN]
+整体修改/欧米茄 Playstation 2 版本 2020-02-16
+
+修改者: 未知
+时间: 2020-02-16

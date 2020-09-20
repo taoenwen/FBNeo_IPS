@@ -1,0 +1,40 @@
+268-p1d.bin	mslug5rm_v2_p1	CRC(3be747ab)
+268d-c1.rom	mslug5rm_v2_c1	CRC(969c0d62)
+268d-c2.rom	mslug5rm_v2_c2	CRC(c69ae867)
+268d-c3.rom	mslug5rm_v2_c3	CRC(d7beaeaf)
+268d-c4.rom	mslug5rm_v2_c4	CRC(e1b1131b)
+268d-c5.rom	mslug5rm_v2_c5	CRC(2fa1a5ad)
+268d-c6.rom	mslug5rm_v2_c6	CRC(6de89589)
+268d-c7.rom	mslug5rm_v2_c7	CRC(97bd0c0a)
+268d-c8.rom	mslug5rm_v2_c8	CRC(c0d5bc20)
+
+[en_US]
+Overall/REMAKE v2
+
+Hack by Xiao Zhang Bing
+
+2020-09-03
+
+1.Change  Metal Slug Attack button to A+B
+2.press D Button to storage weapon(total 2 slot)
+3.Auto Fire
+4.turtle have hit effect
+5.hitbox of Ptolemaios is bigger
+
+[zh_CN]
+整体修改/重制版 (版本 2)
+
+修改者: 小掌饼
+
+日期:  2020-09-03
+
+说明:
+将金属弹头攻击按钮改为A+B
+
+按D键储存武器（共2槽）
+
+自动点火
+
+乌龟有命中效果
+
+托勒密的黑匣子更大

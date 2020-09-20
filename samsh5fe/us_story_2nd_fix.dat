@@ -1,0 +1,23 @@
+272-p1.bin	us_story_2nd_fix	CRC(9e72cc83)
+
+[en_US]
+Translation/Translation hack patch for story mode in English 2nd fix :
+fix story sequences loop after each battle and 2nd attract mode loop issue as above + should fix the missing story bits at the end of the 3rd/6th stage.
+
+Works on AES and MVS for regions other than Japanese 
+
+hack by ack & fandagos
+
+2020-06-21
+
+[zh_CN]
+语言翻译/标题完美版 & 添加英语剧情的第二次修复
+
+修改者: hack by ack & fandagos
+
+时间: 2020-06-21
+
+说明:
+1、修复每一关开始前黑子重复首关剧情的问题
+2、修复第 3 关和第 6 关 剧情丢失的问题
+
