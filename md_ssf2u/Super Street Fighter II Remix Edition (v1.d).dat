@@ -1,0 +1,61 @@
+﻿"super street fighter ii - the new challengers (usa).bin"	"Super Street Fighter II Remix Edition (v1.d)"	CRC(165defbf)
+
+[en_US]
+Overall/Remix Edition (v1.d)
+
+Hack by BlastoBR
+
+Date 2020-09-22
+
+Description:
+- Visual Changes -
+New stage colors by Pyron.
+Modified z80 sound driver by Stef (for better voices).
+New title screen and intro animation colors.
+8 new color for all 16 characters.
+Brazilian Portuguese texts (English version is on the way)
+SSF2 Turbo style lifebars
+Updated flags and country names (Russia is no longer U.S.S.R)
+
+- Gameplay Changes -
+The game is now region free.
+Up to 7 stars for speed.
+VS can be skipped quickly by pressing any button.
+Mashing button attacks are easier to do (half the speed needed).
+Cammy’s Cannon Drill recovers 6 frames faster (like arcade version).
+DeeJay’s Machine gun Punch now always gets the 4 possible hits.
+Balrog’s Turnpunch (PPP) is always “Final”.
+Chun-li, Guile, Bison e Zangief’s regular throws has now the same damage as the arcade.
+Guile’s Sonic Boom recovery time is now correct (20 instead of 12 frames).
+Sagat’s upper Tiger Shot recovery time is now correct (38 instead of 46 frames).
+Vega’s Rolling Attack now goes a little further. (like the arcade).
+
+[zh_CN]
+整体修改/混合版 (版本 1.d)
+
+修改者: BlastoBR
+
+日期: 2020-09-22
+
+说明:
+- 视觉更改 -
+新的舞台颜色由皮龙。
+修改 z80 声音驱动程序由 Stef （更好的声音）.
+新的标题屏幕和介绍动画颜色。
+所有 16 个字符的 8 个新颜色。
+巴西葡萄牙语文本（英文版在路上）
+SSF2 Turbo 风格的救生吧
+更新的国旗和国家名称（俄罗斯不再是美国）
+
+- 游戏更改 -
+游戏现在是免费的区域。
+速度高达 7 星。
+可以通过按下任何按钮快速跳过 VS。
+混搭按钮攻击更容易进行（所需速度的一半）。
+卡米的大炮钻恢复6帧更快（如街机版本）。
+迪杰的机枪冲床现在总是得到 4 个可能的命中。
+巴罗格的转拳 （PPP） 总是 "最终" 。
+春丽、 吉勒、比森 · 赞吉夫的常规投球现在和街机一样有同样的伤害。
+Guile 的声波动臂恢复时间现在是正确的 （20 而不是 12 帧）。
+萨瓦特的上老虎射击恢复时间现在是正确的（38而不是46帧）。
+维加的滚动攻击现在走得更远了一点。（如街机）。
