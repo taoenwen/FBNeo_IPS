@@ -1,0 +1,24 @@
+v200_16m.u23	kov2p204-SuperCancel
+kov2p_igs027a_china.bin	kov2p204-BypassRamAndRomCheck
+
+[en_US]
+Modular/Super Cancel
+
+Hack by Gary Torres
+
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=701370
+
+[zh_CN]
+模块化/超级取消 (强制中断)
+
+作者: 格瑞
+
+1  加载前先确认 biosRom 名是否为 kov2p_igs027a_china.bin，
+    若不是，务必将 dat 文件内 biosRom 名改为对应名，否则无法进行游戏，
+    若无法分辨文件，只需注意，其大小为 16kb
+
+2  可强制取消或中断任意招式及技能，
+    并使用其它招式及技能，
+    但需要注意的是，地面 →A 及 ↓→A 会覆盖空中招式
+	
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=701370
