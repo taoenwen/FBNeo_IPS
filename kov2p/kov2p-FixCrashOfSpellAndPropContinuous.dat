@@ -1,0 +1,17 @@
+v205_32m.u8	kov2p-FixCrashOfSpellAndPropContinuous
+
+[en_US]
+Modular/Fix Crash Of Spell And Prop Continuous
+
+Hack by Gary Torres
+
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=701068
+
+[zh_CN]
+模块化/修复天书及八阵图连放死机
+
+作者: 格瑞
+
+不会当场死机，但若是一个劲的放，还是会内存溢出而死机
+
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=701068

@@ -1,0 +1,19 @@
+v205_32m.u8	kov2p-DamageMultiplier
+
+[en_US]
+Modular/Damage Multiplier
+
+Hack by Gary Torres
+
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=701068
+
+[zh_CN]
+模块化/倍攻
+
+作者: 格瑞
+
+原理即在敌方扣血前hook，将应减少的血量x数值 (十六进制)，
+默认2倍，自行用十六进制编辑器定位到ips文件的1C位置，
+此处的02即倍数，任意修改为想要的数值
+
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=701068
