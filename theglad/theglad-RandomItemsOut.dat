@@ -1,0 +1,21 @@
+﻿v107_u26.u26	theglad-RandomItemsOut
+
+[en_US]
+Modular/Random Items Out
+
+Hack by Gary Torres
+
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=700957
+
+[zh_CN]
+模块化/全敌兵随机爆物
+
+作者: 格瑞
+
+1 所有敌兵都可随机撞/爆出物品，即使原本身上并无物品可撞/爆出
+
+2 因技能物品随当前玩家角色掉落而异，所以有时候会掉落空气，此为正常
+
+3 物品代码区间为 1-33 的技能物品，及  81-95 的补血加分物品
+
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=700957
