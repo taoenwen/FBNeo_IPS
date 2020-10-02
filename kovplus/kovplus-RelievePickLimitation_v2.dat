@@ -1,0 +1,25 @@
+pgm_p0603_v119.u1	kovplus-RelievePickLimitation_v2
+
+[en_US]
+Modular/Relieve Pick Limitation (v2)
+
+Hack by Gary Torres
+
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=700829
+
+[zh_CN]
+模块化/解除物品拾取限制 (版本 2)
+
+作者: 格瑞
+
+1 所有角色限定物品皆可直接拾取，
+  如四剑/金蝎/张陵剑等，
+  原版无法拾取的火/冰剑只需一下便可拾取入包
+
+2 所有物品(包括四剑)可拾取至最多9个
+
+
+# 更新记录：
+  2020-09-11  更新v2，新增所有物品拾取上限修改至9
+
+https://www.ppxclub.com/forum.php?mod=viewthread&tid=700829
