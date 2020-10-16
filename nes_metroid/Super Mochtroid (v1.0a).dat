@@ -1,0 +1,41 @@
+﻿"Metroid (USA).nes"	"Super Mochtroid (v1.0a)"	CRC(a2c89cb9)
+
+[en_US]
+Overall/Super Mochtroid (v1.0a)
+
+Hack by P0ZN0
+
+Date 2020-10-14
+
+Description:
+Based on the introduction sequence in Super Metroid when Samus is telling the story thus far.
+
+New Samus sprites and animation improvements.
+Updated boss graphics and Ridley fight asm.
+Crouching function
+Most enemies don’t exist during door transistions (no more unfair rinkas).
+New beam system and damage adjustments (see README)
+Hope you enjoy!
+
+*EDIT**
+I apologize for anyone who may have gotten stuck in Mother Brain’s room. A specific value had to be changed so that the game could load the correct routine. Please use your current password or change the savestate filename for emulators.
+
+[zh_CN]
+整体修改/超级机动战士 (版本 1.0a)
+
+修改者: P0ZN0
+
+日期: 2020-10-14
+
+说明:
+根据在超级 Metroid 的介绍序列， 当萨穆斯讲述的故事到目前为止。
+
+新的萨穆斯精灵和动画改进。
+更新了老板图形和莱德利战斗 asm 。
+蹲下功能
+大多数敌人在门转换期间并不存在 （不再有不公平的林卡） 。
+新的光束系统和损坏调整（参见 README）
+希望您喜欢！
+
+*编辑**
+我为任何可能被困在大脑母亲房间里的人道歉。必须更改特定值，以便游戏可以加载正确的例程。请使用您当前的密码或更改模拟器的保存状态文件名。
