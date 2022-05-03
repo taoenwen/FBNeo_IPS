@@ -1,0 +1,25 @@
+265-p1.p1	kf2k2ps2b_p1
+265-p2.sp2	kf2k2ps2b_sp2
+265-c1.c1	kf2k2ps2b_c1
+265-c2.c2	kf2k2ps2b_c2
+265-c3.c3	kf2k2ps2b_c3
+265-c4.c4	kf2k2ps2b_c4
+265-c5.c5	kf2k2ps2b_c5
+265-c6.c6	kf2k2ps2b_c6
+265-c7.c7	kf2k2ps2b_c7
+265-c8.c8	kf2k2ps2b_c8
+265-m1.m1	kf2k2ps2b_m1
+265-v1.v1	kf2k2ps2b_v1
+265-v2.v2	kf2k2ps2b_v2
+
+[en_US]
+Overall/Increased capacity hack game test (NeoGeo)
+
+[zh_CN]
+完全修改/扩容版测试
+
+[1] P-ROM 预留长度扩展
+[2] C-ROM 预留长度扩展
+[3] V-ROM 预留长度扩展
+[4] 解决在非 PCM 版 CMC 解密过程忽略 0x04000000 之后数据的情况
+[5] 解决 C-ROM 扩容后内置 S-ROM
