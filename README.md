@@ -8,8 +8,8 @@
 
 [4] 本项目的 IPS 原则上不会选择改版游戏作为宿主，改版宿主一旦更新，后续维护将变得十分艰难
 
-[4] 本项目不附带 IPS 所需的 romsets, 也不会以任何形式提供这些 romsets
+[5] 本项目不附带 IPS 所需的 romsets, 也不会以任何形式提供这些 romsets
 
-[5] 本项目不会为其它模拟器提供 IPS 适配的衍生服务，现在、以及未来的任何时刻
+[6] 本项目不会为其它模拟器提供 IPS 适配的衍生服务，现在、以及未来的任何时刻
 
-[6] 本项目不会为任何人提供 IPS 生成服务，如有必要请访问 https://github.com/finalburnneo/FBNeo 查阅源代码
+[7] 本项目不会为任何人提供 IPS 生成服务，如有必要请访问 https://github.com/finalburnneo/FBNeo 查阅源代码
