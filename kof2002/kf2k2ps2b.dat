@@ -22,4 +22,4 @@ Overall/Increased capacity hack game test (NeoGeo)
 [2] C-ROM 预留长度扩展
 [3] V-ROM 预留长度扩展
 [4] 解决在非 PCM 版 CMC 解密过程忽略 0x04000000 之后数据的情况
-[5] 解决 C-ROM 扩容后内置 S-ROM
+[5] 解决 C-ROM 扩容后找不到内置的 S-ROM
