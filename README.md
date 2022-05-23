@@ -2,7 +2,7 @@
 
 [1] 项目中所有的 IPS 仅适用于最新版本的 FBNeo, 不适用任何其它前端或后端的模拟器
 
-[2] 获取最新版本的 FBNeo 请访问 https://github.com/finalburnneo/FBNeo
+[2] 获取最新版本的 FBNeo 请访问 https://github.com/finalburnneo/FBNeo/releases/tag/latest
 
 [3] 本项目不附带 IPS 所需的 romsets, 也不接受提供这些 romsets 的请求
 
