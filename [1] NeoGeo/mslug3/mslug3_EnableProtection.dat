@@ -1,4 +1,4 @@
-#define	__PROTECTION__
+#define	IPS_USE_PROTECT
 
 [en_US]
 Function/Enable SMA protection

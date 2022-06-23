@@ -1,4 +1,4 @@
-#define	__PROTECTION__
+#define	IPS_USE_PROTECT
 green.neo-sma	mslug3eb_20130227_sma
 256-pg1.p1	mslug3eb_20130227_p1
 256-pg2.p2	mslug3eb_20130227_p2
