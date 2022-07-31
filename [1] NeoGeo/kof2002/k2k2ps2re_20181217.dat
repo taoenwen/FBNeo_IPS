@@ -1,0 +1,19 @@
+#define	IPS_NEOP3_20000
+#define	IPS_PROG_600000
+
+265-p1.p1	k2k2ps2re_20181217_p1
+265-p2.sp2	k2k2ps2re_20181217_sp2
+265-c1.c1	k2k2ps2re_20181217_c1
+265-c2.c2	k2k2ps2re_20181217_c2
+265-c3.c3	k2k2ps2re_20181217_c3
+265-c4.c4	k2k2ps2re_20181217_c4
+265-c5.c5	k2k2ps2re_20181217_c5
+265-c6.c6	k2k2ps2re_20181217_c6
+265-c7.c7	k2k2ps2re_20181217_c7
+265-c8.c8	k2k2ps2re_20181217_c8
+
+[en_US]
+Overall/PlayStation 2 v1.0 Public Beta - 20181217
+
+[zh_CN]
+整体修改/PlayStation 2 v1.0 公众测试版 - 20181217
