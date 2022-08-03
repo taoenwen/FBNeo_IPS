@@ -1,0 +1,14 @@
+#define	IPS_NEOP3_20000
+#define	IPS_PROG_200000
+
+063-p1.p1	samsho2sp_20171012_p1
+063-p1.p1	samsho2new_20200923_p1
+063-s1.s1	samsho2sp_20171012_s1
+063-c7.c7	samsho2sp_20171012_c7
+063-c8.c8	samsho2sp_20171012_c8
+
+[en_US]
+Overall/Optimised - 20200923
+
+[zh_CN]
+整体修改/优化版 - 20200923
