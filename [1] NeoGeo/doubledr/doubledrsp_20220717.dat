@@ -1,0 +1,12 @@
+#define	IPS_NEOP3_20000
+#define	IPS_PROG_200000
+
+082-p1.p1	doubledrsp_20220717_p1
+082-c5.c5	doubledrsp_20220717_c5
+082-c6.c6	doubledrsp_20220717_c6
+
+[en_US]
+Overall/Special - 20220717
+
+[zh_CN]
+整体修改/特别 - 20220717
