@@ -1,21 +1,7 @@
-﻿"mpr-14998.ic1"	"Batman Returns (sound fix)"	CRC(4a3225c0)
+﻿"mpr-14998.ic1"	Batman Returns (sound fix)
 
 [en_US]
-Fix/Sound fix
-
-Hack by Ti
-
-Date 2020-06-06
-
-Description:
-This patch fixes sound problem on models with discrete ym2612 (most of models 1, and VA 2.3). This patch upgrades GEMS sound engine to v2.8.
+Fix/Sound fix - 20200606
 
 [zh_CN]
-修复/声音修复
-
-修改者: Ti
-
-日期: 2020-06-06
-
-描述：
-此修补程序修复了具有离散 ym2612（大多数型号 1 和 VA 2.3）的型号上的声音问题。此修补程序将 GEMS 声音引擎升级到 v2.8。
+修复/声音修复 - 20200606
