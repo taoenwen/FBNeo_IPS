@@ -1,5 +1,5 @@
-268-p1cr.p1	mslug5n_relay_p1
-268-p2cr.p2	mslug5n_relay_p2
+#define	IPS_USE_PROTECT
+
 268-p1cr.p1	mslug5ext_20220925_p1
 268-p2cr.p2	mslug5ext_20220925_p2
 
