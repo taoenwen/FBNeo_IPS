@@ -1,4 +1,6 @@
-﻿ka.neo-sma	kof99sk_20220511_sma
+﻿#define	IPS_NOT_PROTECT
+
+ka.neo-sma	kof99sk_20220511_sma
 251-p1.p1	kof99sk_20220511_p1
 251-p2.p2	kof99sk_20220511_p2
 ka.neo-sma	kof99sk_20220625_sma

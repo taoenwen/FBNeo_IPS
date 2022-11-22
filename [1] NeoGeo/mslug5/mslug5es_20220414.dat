@@ -1,3 +1,5 @@
+#define	IPS_NOT_PROTECT
+
 268-p1cr.p1	mslug5n_relay_p1
 268-p2cr.p2	mslug5n_relay_p2
 268-p1cr.p1	mslug5es_20220414_p1

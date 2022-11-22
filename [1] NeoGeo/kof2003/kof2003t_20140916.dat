@@ -1,4 +1,6 @@
-﻿271-p1c.p1	kof2003t_20140916_p1
+﻿#define	IPS_NOT_PROTECT
+
+271-p1c.p1	kof2003t_20140916_p1
 271-p2c.p2	kof2003t_20140916_p2
 271-p3c.p3	kof2003t_20140916_p3
 

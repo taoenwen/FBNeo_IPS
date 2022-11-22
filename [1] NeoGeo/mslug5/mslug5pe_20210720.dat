@@ -1,3 +1,5 @@
+#define	IPS_NOT_PROTECT
+
 268-p1cr.p1	mslug5pe_20210720_p1
 268-p2cr.p2	mslug5pe_20210720_p2
 

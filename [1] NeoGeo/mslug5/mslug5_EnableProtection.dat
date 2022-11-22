@@ -1,7 +1,0 @@
-#define	IPS_USE_PROTECT
-
-[en_US]
-Function/Enable PVC protection
-
-[zh_CN]
-功能/启用 PVC 保护

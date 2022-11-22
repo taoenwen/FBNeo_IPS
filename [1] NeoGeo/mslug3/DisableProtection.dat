@@ -1,0 +1,7 @@
+#define	IPS_NOT_PROTECT
+
+[en_US]
+Function/Disable SMA & PVC protection
+
+[zh_CN]
+功能/禁用 SMA & PVC 保护

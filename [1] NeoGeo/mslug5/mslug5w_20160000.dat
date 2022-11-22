@@ -1,3 +1,5 @@
+#define	IPS_NOT_PROTECT
+
 268-p1cr.p1	mslug5w_20160000_p1
 268-p2cr.p2	mslug5w_20160000_p2
 268-c1c.c1	mslug5w_20160000_c1

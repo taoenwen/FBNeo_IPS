@@ -1,3 +1,5 @@
+#define	IPS_NOT_PROTECT
+
 neo-sma	kof2000otc_20200615_sma
 257-p1.p1	kof2000n_relay_p1
 257-p1.p1	kof2000otc_20200615_p1
