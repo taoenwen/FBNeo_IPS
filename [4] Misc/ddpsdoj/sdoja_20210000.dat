@@ -1,0 +1,15 @@
+u4	sdoja_20210000_u4
+u2	sdoja_20210000_u2_offs00
+u2	sdoja_20210000_u2_offs01	IPS_OFFSET_016
+u2	sdoja_20210000_u2_offs02	IPS_OFFSET_032
+u2	sdoja_20210000_u2_offs03	IPS_OFFSET_048
+u2	sdoja_20210000_u2_offs04	IPS_OFFSET_064
+u2	sdoja_20210000_u2_offs05	IPS_OFFSET_080
+u23	sdojak_20211201_u23
+u24	sdojak_20211201_u24
+
+[en_US]
+Overall/Hack - 20210000
+
+[zh_CN]
+整体修改/修改 - 20210000
