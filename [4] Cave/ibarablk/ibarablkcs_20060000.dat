@@ -1,0 +1,11 @@
+ibarablk_u2	ibarablkcs_20060000_u2_offs00
+ibarablk_u2	ibarablkcs_20060000_u2_offs04	IPS_OFFSET_064
+ibarablk_u2	ibarablkcs_20060000_u2_offs05	IPS_OFFSET_080
+ibarablk_u2	ibarablkcs_20060000_u2_offs06	IPS_OFFSET_096
+ibarablk_u2	ibarablkcs_20060000_u2_offs07	IPS_OFFSET_112
+
+[en_US]
+Overall/COLOR SAT - 20060000
+
+[zh_CN]
+整体修改/COLOR SAT - 20060000
