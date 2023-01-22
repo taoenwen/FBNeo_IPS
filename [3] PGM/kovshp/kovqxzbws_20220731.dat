@@ -1,0 +1,25 @@
+﻿#define	IPS_PGM_SPRHACK
+
+p0600h_101.rom	kovqxzbws_20220731_prg
+pgm_t0600.u2	kovqxzbws_20220731_u2
+pgm_a0600.u3	kovqxzbws_20220731_u3
+pgm_a0601.u4	kovqxzbws_20220731_u4
+pgm_a0602.u6	kovqxzbws_20220731_u6
+igs_a05401w064.u8	kovqxzbws_20220731_u8_offs00
+igs_a05401w064.u8	kovqxzbws_20220731_u8_offs01	IPS_OFFSET_016
+pgm_b0600.u9	kovqxzbws_20220731_u9
+igs_b05401w064.u11	kovqxzbws_20220731_u11
+pgm_m0600.u5	kovqxzbws_20220731_u5
+kovsh_v100_china.asic	kovqxzbws_20220731_asic
+
+[en_US]
+Overall/Qun Xiong Zheng Ba Feng Yun Zai Qi - 20220731
+
+[1] The \config\games\kovshp.fs file must be cleared before loading
+[2] DIPSW to China
+
+[zh_CN]
+整体修改/群雄争霸 风云再起 - 20220731
+
+[1] 加载前须清除 \config\games\kovshp.fs" 文件
+[2] 跳线中将区域调整为中国

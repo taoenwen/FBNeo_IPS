@@ -1,0 +1,22 @@
+﻿#define	IPS_PGM_MAPHACK
+#define	IPS_PGM_SNDOFS6
+
+v107_u18.u18	kov2dzxx_20220208_u18
+pgm_t1200.u27	kov2dzxx_20220208_u27
+pgm_m1200.u3	kov2dzxx_20220208_u3
+kov2_v100_hongkong.asic	kov2dzxx_20220208_asic
+v102_u19.u19	kov2dzxx_20220208_u19
+pgm_t01s.rom	kov2dzxx_20220208_t01s
+pgm_p02s.u20	kov2dzxx_20220208_p02s
+
+[en_US]
+Overall/Dou Zhuan Xing Xuan - 20220208
+
+[1] The \config\games\kov2.fs file must be cleared before loading
+[2] DIPSW to China
+
+[zh_CN]
+整体修改/斗转星旋 - 20220208
+
+[1] 加载前须清除 \config\games\kov2.fs" 文件
+[2] 跳线中将区域调整为中国
