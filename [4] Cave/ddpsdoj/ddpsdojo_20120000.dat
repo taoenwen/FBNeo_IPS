@@ -1,8 +1,8 @@
-u2	ddpsdojo_20120000_offs00
-u2	ddpsdojo_20120000_offs01	IPS_OFFSET_016
-u2	ddpsdojo_20120000_offs02	IPS_OFFSET_032
-u2	ddpsdojo_20120000_offs03	IPS_OFFSET_048
-u2	ddpsdojo_20120000_offs04	IPS_OFFSET_064
+u2	ddpsdojo_20120000_u2_offs00
+u2	ddpsdojo_20120000_u2_offs01	IPS_OFFSET_016
+u2	ddpsdojo_20120000_u2_offs02	IPS_OFFSET_032
+u2	ddpsdojo_20120000_u2_offs03	IPS_OFFSET_048
+u2	ddpsdojo_20120000_u2_offs04	IPS_OFFSET_064
 
 [en_US]
 Overall/dirty dump - 20120000
