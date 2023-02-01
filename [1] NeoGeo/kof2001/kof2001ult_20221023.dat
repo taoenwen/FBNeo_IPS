@@ -1,0 +1,22 @@
+#define	IPS_LOAD_OFFSET
+
+262-p1-08-e0.p1	kof2001ult_20221023_p1
+262-p2-08-e0.sp2	kof2001ult_20221023_sp2
+262-c1-08-e0.c1	kof2001ult_20221023_c1
+262-c2-08-e0.c2	kof2001ult_20221023_c2
+262-c3-08-e0.c3	kof2001ult_20221023_c3
+262-c4-08-e0.c4	kof2001ult_20221023_c4
+262-c5-08-e0.c5	kof2001ult_20221023_c5
+262-c6-08-e0.c6	kof2001ult_20221023_c6
+262-c7-08-e0.c7	kof2001ult_20221023_c7_offs00
+262-c8-08-e0.c8	kof2001ult_20221023_c8_offs00
+262-c7-08-e0.c7	kof2001ult_20221023_c7_offs01	IPS_OFFSET_016
+262-c8-08-e0.c8	kof2001ult_20221023_c8_offs01	IPS_OFFSET_016
+265-262-m1.m1	kof2001ult_20221023_m1
+262-v4-08-e0.v4	kof2001ult_20221023_v4
+
+[en_US]
+Overall/Ultimate - 20221023
+
+[zh_CN]
+整体修改/终极 - 20221023
