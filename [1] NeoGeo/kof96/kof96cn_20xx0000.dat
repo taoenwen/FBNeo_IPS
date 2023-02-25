@@ -1,6 +1,7 @@
-#define	IPS_PROG_800000
+#define	IPS_PRG1_EXPAND	EXP_VALUE_050
+#define	IPS_GRA1_EXPAND	EXP_VALUE_080
 
-214-p1.p1	kof96cn_20xx0000_s1
+214-p1.p1	kof96cn_20xx0000_p1
 214-p2.sp2	kof96cn_20xx0000_sp2
 214-s1.s1	kof96cn_20xx0000_s1
 214-c7.c7	kof96cn_20xx0000_c7
