@@ -1,3 +1,5 @@
+#define IPS_PRG1_EXPAND	EXP_VALUE_020
+
 cce_23d.8f	captcommzt_20201211_8f
 cc_22d.7f	captcommzt_20201211_7f
 cc_24d.9e	captcommzt_20201211_9e

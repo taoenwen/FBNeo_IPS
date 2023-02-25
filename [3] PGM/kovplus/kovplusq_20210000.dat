@@ -1,4 +1,8 @@
-﻿pgm_p0603_v119.u1	kovplusq_20210000_u1
+﻿#define IPS_PRG1_EXPAND	EXP_VALUE_020
+#define IPS_GRA2_EXPAND	EXP_VALUE_040
+#define IPS_GRA3_EXPAND	EXP_VALUE_040
+
+pgm_p0603_v119.u1	kovplusq_20210000_u1
 pgm_t0600.u11	kovplusq_20210000_u11
 pgm_a0600.u2	kovplusq_20210000_u2
 pgm_a0601.u4	kovplusq_20210000_u4
