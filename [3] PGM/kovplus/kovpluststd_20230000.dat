@@ -1,0 +1,24 @@
+﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_020
+#define	IPS_GRA2_EXPAND	EXP_VALUE_080
+#define	IPS_GRA3_EXPAND	EXP_VALUE_040
+#define	IPS_SND1_EXPAND	EXP_VALUE_080
+
+pgm_p0603_v119.u1	kovpluststd_20230000_u1
+pgm_t0600.u11	kovpluststd_20230000_u11
+pgm_a0600.u2	kovplushsqj_20230000_u2
+pgm_a0601.u4	kovpluststd_20230000_u4
+pgm_a0602.u6	kovpluststd_20230000_u6
+pgm_a0603.u9	kovpluststd_20230000_u9
+pgm_b0600.u5	kovplushsqj_20230000_u5
+pgm_b0601.u7	kovpluststd_20230000_u7
+pgm_m0600.u3	kovpluststd_20230000_u3
+
+[en_US]
+Overall/Zhen Tun Shi Tian Di - 20230000
+
+DIP to china
+
+[zh_CN]
+整体修改/真·吞食天地 - 20230000
+
+跳线区域选择：中国
