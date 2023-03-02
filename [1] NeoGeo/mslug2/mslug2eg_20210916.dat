@@ -1,3 +1,6 @@
+#define IPS_PRG1_EXPAND	EXP_VALUE_010
+#define IPS_GRA1_EXPAND	EXP_VALUE_100
+
 241-p1.p1	mslug2eg_20210916_p1
 241-p2.sp2	mslug2eg_20210916_sp2
 241-s1.s1	mslug2eg_20210916_s1
