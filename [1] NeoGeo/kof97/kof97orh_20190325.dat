@@ -1,12 +1,14 @@
-232-p1.p1	kof97orh_20190325_p1	CRC(7db81ad9)
-232-p2.sp2	kof97orh_20190325_p2	CRC(158b23f6)
-232-c1.c1	kof97orh_20190325_c1	CRC(5f8bf0a1)
-232-c2.c2	kof97orh_20190325_c2	CRC(e4d45c81)
-232-c5.c5	kof97orh_20190325_c5	CRC(34fc4e51)
-232-c6.c6	kof97orh_20190325_c6	CRC(4ff4d47b)
+#define	IPS_GRA1_EXPAND	EXP_VALUE_040
+
+232-p1.p1	kof97orh_20190325_p1
+232-p2.sp2	kof97orh_20190325_p2
+232-c1.c1	kof97orh_20190325_c1
+232-c2.c2	kof97orh_20190325_c2
+232-c5.c5	kof97orh_20190325_c5
+232-c6.c6	kof97orh_20190325_c6
 
 [en_US]
-Overall/Tian Guo Shen Zu Final - 20190325
+Overall/Tian Guo Shen Zu - 20190325
 
 [zh_CN]
-整体修改/天国神族最终 - 20190325
+整体修改/天国神族 - 20190325
