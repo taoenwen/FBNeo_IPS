@@ -1,4 +1,6 @@
-﻿cdj_23a.8f	dinoxz_20220901_8f
+﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_010
+
+cdj_23a.8f	dinoxz_20220901_8f
 cdj_22a.7f	dinoxz_20221023_7f
 cdj_21a.6f	dinoxz_20220901_6f
 

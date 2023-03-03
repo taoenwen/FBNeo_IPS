@@ -1,4 +1,6 @@
-﻿cde_23a.8f	dinotw_20211029_8f
+﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_010
+
+cde_23a.8f	dinotw_20211029_8f
 cde_22a.7f	dinotw_20211029_7f
 cde_21a.6f	dinotw_20211029_6f
 

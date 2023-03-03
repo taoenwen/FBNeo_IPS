@@ -1,4 +1,6 @@
-﻿cdu_23a.8f	dinosdj_20220620_8f
+﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_010
+
+cdu_23a.8f	dinosdj_20220620_8f
 cdu_22a.7f	dinosdj_20220620_7f
 cdu_21a.6f	dinosdj_20220620_6f
 

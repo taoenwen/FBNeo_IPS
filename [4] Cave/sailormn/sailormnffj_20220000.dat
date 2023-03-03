@@ -1,3 +1,5 @@
+#define	IPS_PRG1_EXPAND	EXP_VALUE_010
+
 bpsm945a.u45	sailormnffj_20220000_u45
 sailormn_europe.nv	sailormn_japan
 
