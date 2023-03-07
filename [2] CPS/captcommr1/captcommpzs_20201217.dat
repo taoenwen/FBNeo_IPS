@@ -1,4 +1,5 @@
 #define IPS_PRG1_EXPAND	EXP_VALUE_020
+#define	IPS_LOAD_EXPAND	EXP_VALUE_010
 
 cce_23d.8f	captcommpzs_20201217_8f
 cc_22d.7f	captcommpzs_20201217_7f
