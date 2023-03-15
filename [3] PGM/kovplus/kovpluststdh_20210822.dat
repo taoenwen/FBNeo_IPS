@@ -1,0 +1,21 @@
+﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_010
+#define	IPS_GRA3_EXPAND	EXP_VALUE_040
+
+pgm_p0603_v119.u1	kovpluststdh_20210822_u1
+pgm_t0600.u11	kovpluststdh_20210822_u11
+pgm_a0600.u2	kovpluststdh_20210822_u2
+pgm_a0601.u4	kovpluststdh_20210822_u4
+pgm_a0603.u9	kovpluststdh_20210822_u9
+pgm_b0600.u5	kovpluststdh_20210822_u5
+pgm_b0601.u7	kovpluststdh_20210822_u7
+pgm_m0600.u3	kovpluststdh_20210822_u3
+
+[en_US]
+Overall/Nostalgia - 20210822
+
+DIP to china
+
+[zh_CN]
+整体修改/怀旧 - 20210822
+
+跳线区域选择：中国
