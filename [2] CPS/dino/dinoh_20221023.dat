@@ -1,0 +1,13 @@
+﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_008
+
+cde_23a.8f	dinou_relay_8f
+cde_22a.7f	dinou_relay_7f
+cde_23a.8f	dinoh_20221023_8f
+cde_22a.7f	dinoh_20211224_7f
+cde_21a.6f	dinoh_20221023_6f
+
+[en_US]
+Overall/Tournament - 20221023
+
+[zh_CN]
+整体修改/赛事 - 20221023
