@@ -1,0 +1,17 @@
+#define IPS_PRG1_EXPAND	EXP_VALUE_020
+#define	IPS_LOAD_EXPAND	EXP_VALUE_010
+
+cce_23f.8f	captcommr1_relay_8f
+cc_22f.7f	captcommr1_relay_7f
+cc_24f.9e	captcommr1_relay_9e
+cc_28f.9f	captcommr1_relay_9f
+cce_23f.8f	captcomm2y_20220307_8f
+cc_22f.7f	captcomm2y_20220307_7f
+cc_24f.9e	captcomm2y_20220307_9e
+cc_28f.9f	captcomm2y_20220307_9f
+
+[en_US]
+Overall/Er Ye - 20220307
+
+[zh_CN]
+整体修改/二爷 - 20220307

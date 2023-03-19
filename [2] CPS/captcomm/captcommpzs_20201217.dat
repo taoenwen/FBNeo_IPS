@@ -1,0 +1,17 @@
+#define IPS_PRG1_EXPAND	EXP_VALUE_020
+#define	IPS_LOAD_EXPAND	EXP_VALUE_010
+
+cce_23f.8f	captcommr1_relay_8f
+cc_22f.7f	captcommr1_relay_7f
+cc_24f.9e	captcommr1_relay_9e
+cc_28f.9f	captcommr1_relay_9f
+cce_23f.8f	captcommpzs_20201217_8f
+cc_22f.7f	captcommpzs_20201217_7f
+cc_24f.9e	captcommpzs_20201217_9e
+cc_28f.9f	captcommpzs_20201217_9f
+
+[en_US]
+Overall/God of War - 20201217
+
+[zh_CN]
+整体修改/战神 - 20201217
