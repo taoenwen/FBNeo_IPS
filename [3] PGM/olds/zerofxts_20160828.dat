@@ -1,0 +1,28 @@
+#define	IPS_PRG1_EXPAND	EXP_VALUE_020
+
+sp_v101_u2.u2	olds100a_relay_prg_u2
+sp_v101_u3.u3	olds100a_relay_prg_u3
+sp_v101_u4.u4	olds100a_relay_prg_u4
+sp_v101_u5.u5	olds100a_relay_prg_u5
+sp_v101_u1.u1	olds100a_relay_prg_u1
+sp_v101_u2.u2	zerofxts_20160828_prg_u2
+sp_v101_u3.u3	zerofxts_20160828_prg_u3
+sp_v101_u4.u4	zerofxts_20160828_prg_u4
+sp_v101_u5.u5	zerofxts_20160828_prg_u5
+sp_v101_u1.u1	zerofxts_20160828_prg_u1
+pgm_t0500.u18	zerofxts_20160828_u18
+pgm_a0501.u6	zerofxts_20160828_u6
+pgm_a0506.u13	zerofxts_20160828_u13
+pgm_b0500.u9	zerofxts_20160828_u9
+pgm_b0503.u16	zerofxts_20160828_u16
+pgm_m0500.u1	zerofxts_20160828_u1
+
+[en_US]
+Overall/Zero Xuanzang - 20160828
+
+DIPSW to China
+
+[zh_CN]
+整体修改/Zero 唐僧 - 20160828
+
+跳线将区域调整为中国

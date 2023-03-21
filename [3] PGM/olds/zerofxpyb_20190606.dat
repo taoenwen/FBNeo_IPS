@@ -1,0 +1,25 @@
+#define	IPS_PRG1_EXPAND	EXP_VALUE_020
+
+sp_v101_u2.u2	olds100a_relay_prg_u2
+sp_v101_u3.u3	olds100a_relay_prg_u3
+sp_v101_u4.u4	olds100a_relay_prg_u4
+sp_v101_u5.u5	olds100a_relay_prg_u5
+sp_v101_u1.u1	olds100a_relay_prg_u1
+sp_v101_u2.u2	zerofxpyb_20190606_prg_u2
+sp_v101_u3.u3	zerofxpyb_20190606_prg_u3
+sp_v101_u4.u4	zerofxpyb_20190606_prg_u4
+sp_v101_u5.u5	zerofxpyb_20190606_prg_u5
+sp_v101_u1.u1	zerofxpyb_20190606_prg_u1
+pgm_a0506.u13	zerofxts_20160828_u13
+pgm_b0503.u16	zerofxts_20160828_u16
+pgm_m0500.u1	zerofxp_20190606_u1
+
+[en_US]
+Overall/Z Original - 20190606
+
+DIPSW to China
+
+[zh_CN]
+整体修改/Z 原版 - 20190606
+
+跳线将区域调整为中国

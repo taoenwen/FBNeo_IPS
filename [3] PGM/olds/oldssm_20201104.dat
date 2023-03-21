@@ -1,0 +1,34 @@
+#define	IPS_PRG1_EXPAND	EXP_VALUE_020
+
+sp_v101_u2.u2	olds100a_relay_prg_u2
+sp_v101_u3.u3	olds100a_relay_prg_u3
+sp_v101_u4.u4	olds100a_relay_prg_u4
+sp_v101_u5.u5	olds100a_relay_prg_u5
+sp_v101_u1.u1	olds100a_relay_prg_u1
+sp_v101_u2.u2	oldssm_20201014_prg_u2
+sp_v101_u3.u3	oldssm_20201014_prg_u3
+sp_v101_u4.u4	oldssm_20201014_prg_u4
+sp_v101_u5.u5	oldssm_20201014_prg_u5
+sp_v101_u1.u1	oldssm_20201014_prg_u1
+pgm_a0506.u13	oldssm_20201021_u13
+pgm_b0503.u16	oldssm_20201021_u16
+sp_v101_u2.u2	oldssm_20201021_prg_u2
+sp_v101_u3.u3	oldssm_20201021_prg_u3
+sp_v101_u4.u4	oldssm_20201021_prg_u4
+sp_v101_u5.u5	oldssm_20201021_prg_u5
+sp_v101_u1.u1	oldssm_20201021_prg_u1
+sp_v101_u2.u2	oldssm_20201104_prg_u2
+sp_v101_u3.u3	oldssm_20201104_prg_u3
+sp_v101_u4.u4	oldssm_20201104_prg_u4
+sp_v101_u5.u5	oldssm_20201104_prg_u5
+sp_v101_u1.u1	oldssm_20201104_prg_u1
+
+[en_US]
+Overall/Wu Zhi Shuang Mo - 20201104
+
+DIPSW to China
+
+[zh_CN]
+整体修改/舞之双魔 - 20201104
+
+跳线将区域调整为中国

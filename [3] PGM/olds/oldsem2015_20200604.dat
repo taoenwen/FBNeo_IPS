@@ -1,0 +1,24 @@
+#define	IPS_PRG1_EXPAND	EXP_VALUE_020
+
+sp_v101_u2.u2	olds100a_relay_prg_u2
+sp_v101_u3.u3	olds100a_relay_prg_u3
+sp_v101_u4.u4	olds100a_relay_prg_u4
+sp_v101_u5.u5	olds100a_relay_prg_u5
+sp_v101_u1.u1	olds100a_relay_prg_u1
+sp_v101_u2.u2	oldsem2015_20200604_prg_u2
+sp_v101_u3.u3	oldsem2015_20200604_prg_u3
+sp_v101_u4.u4	oldsem2015_20200604_prg_u4
+sp_v101_u5.u5	oldsem2015_20200604_prg_u5
+sp_v101_u1.u1	oldsem2015_20200604_prg_u1
+pgm_a0506.u13	oldssm_20201021_u13
+pgm_b0503.u16	oldssm_20201021_u16
+
+[en_US]
+Overall/Nightmare Survival 2015 - 20200604
+
+DIPSW to China
+
+[zh_CN]
+整体修改/噩梦求生 2015 - 20200604
+
+跳线将区域调整为中国
