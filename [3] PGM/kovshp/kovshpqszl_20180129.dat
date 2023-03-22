@@ -1,0 +1,24 @@
+﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_020
+#define	IPS_GRA2_EXPAND	EXP_VALUE_080
+#define	IPS_GRA3_EXPAND	EXP_VALUE_080
+
+p0600h_101.rom	kovshpqszl_20180129_prg
+pgm_t0600.u2	kovshpqszl_20180129_u2
+pgm_a0600.u3	kovshpqszl_20180129_u3
+pgm_a0601.u4	kovshpqszl_20180129_u4
+pgm_a0602.u6	kovshpqszl_20180129_u6
+igs_a05401w064.u8	kovshpqszl_20180129_u8
+pgm_b0600.u9	kovshpqszl_20180129_u9
+igs_b05401w064.u11	kovshpqszl_20180129_u11
+pgm_m0600.u5	kovshpqszl_20180129_u5
+kovsh_v100_china.asic	kovshpqszl_20180129_asic
+
+[en_US]
+Overall/Qiu Sheng Zhi Lu - 20180129
+
+DIP to china
+
+[zh_CN]
+整体修改/求生之路 - 20180129
+
+跳线区域选择：中国
