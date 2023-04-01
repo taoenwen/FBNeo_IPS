@@ -1,4 +1,3 @@
-#define	IPS_NOT_PROTECT
 #define	IPS_SND1_EXPAND	EXP_VALUE_010
 
 268-p1cr.p1	mslug5f_20150410_p1
