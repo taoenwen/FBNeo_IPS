@@ -1,9 +1,8 @@
+#define	IPS_NOT_PROTECT
 #define	IPS_SND1_EXPAND	EXP_VALUE_010
 
 268-p1cr.p1	mslug5w_20160000_p1
 268-p2cr.p2	mslug5w_20160000_p2
-268-p1cr.p1	mslug5fd_pvc_protection_p1
-268-p2cr.p2	mslug5fd_pvc_protection_p2
 268-c1c.c1	mslug5w_20160000_c1
 268-c2c.c2	mslug5w_20160000_c2
 268-c3c.c3	mslug5w_20160000_c3
