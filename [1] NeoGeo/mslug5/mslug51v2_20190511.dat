@@ -1,12 +1,8 @@
-#define	IPS_NOT_PROTECT
-
-268-p1cr.p1	mslug5n_relay_p1
-268-p2cr.p2	mslug5n_relay_p2
 268-p1cr.p1	mslug51v2_20190511_p1
 268-p2cr.p2	mslug51v2_20190511_p2
 
 [en_US]
-Overall/1 v 2 - 20190511
+Overall/1v2 - 20190511
 
 [zh_CN]
-整体修改/1 v 2 - 20190511
+整体修改/1v2 - 20190511
