@@ -1,5 +1,3 @@
-#define	IPS_NOT_PROTECT
-
 268-p1cr.p1	mslughb_20220203_p1
 268-p2cr.p2	mslughb_20220203_p2
 268-c1c.c1	mslughb_20220203_c1
@@ -15,7 +13,7 @@
 268-v2c.v2	mslughb_20220203_v2
 
 [en_US]
-Overall/Metal Slug (Homebrew) - 20220203
+Overall/3X (Homebrew) - 20220203
 
 [zh_CN]
 整体修改/合金弹头彩蛋母舰大作战 (自制) - 20220203
