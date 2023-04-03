@@ -1,0 +1,18 @@
+#define	IPS_NOT_PROTECT
+
+268-p1cr.p1	ms5plus_20030000_p1
+268-p2cr.p2	ms5plus_20030000_p2
+268-c1c.c1	ms5plus_20030000_c1
+268-c2c.c2	ms5plus_20030000_c2
+268-c3c.c3	ms5plus_20030000_c3
+268-c4c.c4	ms5plus_20030000_c4
+268-c5c.c5	ms5plus_20030000_c5
+268-c6c.c6	ms5plus_20030000_c6
+268-c7c.c7	ms5plus_20030000_c7
+268-c8c.c8	ms5plus_20030000_c8
+
+[en_US]
+Overall/Plus - 20030000
+
+[zh_CN]
+整体修改/Plus - 20030000
