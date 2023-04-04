@@ -1,0 +1,23 @@
+#define	IPS_PRG1_EXPAND	EXP_VALUE_030
+#define	IPS_GRA1_EXPAND	EXP_VALUE_100
+#define	IPS_LOAD_EXPAND	EXP_VALUE_080
+
+265-p1.p1	kf2k5uni_20040000_p1
+265-p2.sp2	kf2k5uni_20040000_sp2
+265-c1.c1	kf2k5uni_20040000_c1
+265-c2.c2	kf2k5uni_20040000_c2
+265-c3.c3	kf2k5uni_20040000_c3
+265-c4.c4	kf2k5uni_20040000_c4
+265-c5.c5	kf2k5uni_20040000_c5
+265-c6.c6	kf2k5uni_20040000_c6
+265-c7.c7	kf2k5uni_20040000_c7
+265-c8.c8	kf2k5uni_20040000_c8
+265-m1.m1	kf2k5uni_20040000_m1
+265-p1.p1	kf2k5uni_20190619_p1
+265-p2.sp2	kf2k5uni_20190619_sp2
+
+[en_US]
+Overall/10th Anniversary 2005 Unique - 20190619
+
+[zh_CN]
+完全修改/10 周年纪念 2005 Unique - 20190619
