@@ -1,4 +1,4 @@
-sfiii3_euro.29f400.u2	sfiii3_japan_nocd.29f400
+sfiii3_euro.29f400.u2	sfiii3_japan_nocd.29f400_u2
 sfiii3-simm1.0	sfiii3ws_20220701_simm1.0
 sfiii3-simm1.1	sfiii3ws_20220701_simm1.1
 sfiii3-simm1.2	sfiii3ws_20220701_simm1.2
@@ -15,5 +15,9 @@ sfiii3-simm1.3	sfiii3ws_20220908_simm1.3
 [en_US]
 Overall/Widescreen - 20220908
 
+Dip to Japan
+
 [zh_CN]
 整体修改/宽屏 - 20220908
+
+跳线区域选择日本
