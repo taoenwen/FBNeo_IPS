@@ -1,8 +1,8 @@
 ﻿#define	IPS_NOT_PROTECT
 
-ka.neo-sma	kof99jq_20230917_sma
-251-p1.p1	kof99jq_20230917_p1
-251-p2.p2	kof99jq_20230917_p2
+ka.neo-sma	kof99eur_20150713_sma
+251-p1.p1	kof99eur_20150713_p1
+251-p2.p2	kof99eur_20150713_p2
 251-c1.c1	kof99eur_20150713_c1
 251-c2.c2	kof99eur_20150713_c2
 251-c3.c3	kof99eur_20150713_c3
@@ -14,6 +14,9 @@ ka.neo-sma	kof99jq_20230917_sma
 251-m1.m1	kof99eur_20150713_m1
 251-v1.v1	kof99eur_20150713_v1
 251-v2.v2	kof99eur_20150713_v2
+ka.neo-sma	kof99jq_20230917_sma
+251-p1.p1	kof99jq_20230917_p1
+251-p2.p2	kof99jq_20230917_p2
 
 [en_US]
 Overall/Unlimited Energy - 20230917
