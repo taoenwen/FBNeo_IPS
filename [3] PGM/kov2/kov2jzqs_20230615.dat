@@ -1,0 +1,18 @@
+﻿#define	IPS_PGM_MAPHACK
+
+v107_u18.u18	kov2106_relay_u18
+v107_u18.u18	kov2jzqs_20230219_u18
+v107_u18.u18	kov2jzqs_20230615_u18
+pgm_t1200.u27	kov2jzqs_20230615_u27
+v102_u19.u19	kov2jzqs_20230219_u19
+kov2_v100_hongkong.asic	kov2jzqs_20230615_asic
+
+[en_US]
+Overall/Jue Zhan Qiu Sheng - 20230615
+
+DIPSW to China
+
+[zh_CN]
+整体修改/决战求生 - 20230615
+
+跳线中将区域调整为中国
