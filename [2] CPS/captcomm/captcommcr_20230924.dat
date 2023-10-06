@@ -1,4 +1,4 @@
-#define IPS_PRG1_EXPAND	0x1c0000
+#define	IPS_PRG1_EXPAND	0x1c0000
 #define	IPS_LOAD_EXPAND	0x0e0000
 
 cce_23f.8f	captcommr1_relay_8f
