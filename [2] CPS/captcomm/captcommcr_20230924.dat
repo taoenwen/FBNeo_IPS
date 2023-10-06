@@ -1,0 +1,19 @@
+#define IPS_PRG1_EXPAND	0x1c0000
+#define	IPS_LOAD_EXPAND	0x0e0000
+
+cce_23f.8f	captcommr1_relay_8f
+cc_22f.7f	captcommr1_relay_7f
+cc_24f.9e	captcommr1_relay_9e
+cc_28f.9f	captcommr1_relay_9f
+cce_23f.8f	captcommcr_20230920_8f
+cc_22f.7f	captcommcr_20230920_7f
+cc_24f.9e	captcommcr_20230920_9e
+cc_28f.9f	captcommcr_20230920_9f
+cc_24f.9e	captcommcr_20230924_9e
+cc_28f.9f	captcommcr_20230924_9f
+
+[en_US]
+Overall/CR7 Elite - 20230924
+
+[zh_CN]
+整体修改/CR7 精英 - 20230924
