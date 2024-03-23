@@ -1,6 +1,6 @@
 # FBNeo IPS 项目
 
-[1] 项目中所有的 IPS 仅适用于最新 Windows 版本的 FBNeo, 不适用任何其它前端或后端的模拟器
+[1] 项目中所有的 IPS 仅适用于最新 Windows 版本的 FBNeo, 不适用任何前端和后端或其它模拟器
 
 [2] 获取最新 Windows FBNeo x86 的二进制文件请访问 https://github.com/finalburnneo/FBNeo/releases/download/latest/Windows.x32.zip
 
