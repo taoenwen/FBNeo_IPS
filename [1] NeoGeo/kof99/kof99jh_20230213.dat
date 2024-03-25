@@ -1,0 +1,23 @@
+#define	IPS_NOT_PROTECT
+
+ka.neo-sma	kof99ka_relay_sma
+251-p1.p1	kof99ka_relay_p1
+251-p2.p2	kof99ka_relay_p2
+ka.neo-sma	kof99jh_20230213_sma
+251-p1.p1	kof99jh_20230213_p1
+251-p2.p2	kof99jh_20230213_p2
+251-c1.c1	kof99jh_20230213_c1
+251-c2.c2	kof99jh_20230213_c2
+251-c3.c3	kof99jh_20230213_c3
+251-c4.c4	kof99jh_20230213_c4
+251-c5.c5	kof99jh_20230213_c5
+251-c6.c6	kof99jh_20230213_c6
+251-c7.c7	kof99jh_20230213_c7
+251-c8.c8	kof99jh_20230213_c8
+251-p2.p2	kof99_TimePatch
+
+[en_US]
+Overall/Evolution - 20230213
+
+[zh_CN]
+整体修改/进化 - 20230213
