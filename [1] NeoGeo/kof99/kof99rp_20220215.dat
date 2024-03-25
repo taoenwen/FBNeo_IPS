@@ -1,5 +1,8 @@
 ﻿#define	IPS_NOT_PROTECT
 
+ka.neo-sma	kof99ka_relay_sma
+251-p1.p1	kof99ka_relay_p1
+251-p2.p2	kof99ka_relay_p2
 ka.neo-sma	kof99rp_20220215_sma
 251-p1.p1	kof99rp_20220215_p1
 251-p2.p2	kof99rp_20220215_p2
@@ -18,4 +21,4 @@ ka.neo-sma	kof99rp_20220215_sma
 Overall/Remix Pro - 20220215
 
 [zh_CN]
-整体修改/Remix Pro - 20220215
+整体修改/混合专业 - 20220215
