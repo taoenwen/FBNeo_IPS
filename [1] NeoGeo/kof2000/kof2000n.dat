@@ -1,0 +1,11 @@
+#define	IPS_NOT_PROTECT
+
+neo-sma	kof2000n_relay_sma
+257-p1.p1	kof2000n_relay_p1
+257-p2.p2	kof2000n_relay_p2
+
+[en_US]
+Version/kof2000n (not encrypted)
+
+[zh_CN]
+版本切换/kof2000n (未加密)
