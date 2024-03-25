@@ -1,11 +1,12 @@
 ﻿#define	IPS_NOT_PROTECT
 
-neo-sma	kof2000t_20130910_sma
+neo-sma	kof2000n_relay_sma
 257-p1.p1	kof2000n_relay_p1
+257-p2.p2	kof2000n_relay_p2
 257-p2.p2	kof2000t_20130910_p2
 
 [en_US]
 Overall/Optimization - 20130910
 
 [zh_CN]
-整体修改/优化版 - 20130910
+整体修改/优化 - 20130910
