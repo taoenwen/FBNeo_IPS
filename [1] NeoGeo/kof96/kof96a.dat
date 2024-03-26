@@ -1,0 +1,10 @@
+#define	IPS_PRG1_EXPAND	EXP_VALUE_010
+
+214-p1.p1	kof96h_relay_p1
+214-p2.sp2	kof96a_relay_sp2
+
+[en_US]
+Version/kof96a (NGM-214, alt board)
+
+[zh_CN]
+版本切换/kof96a (NGM-214, 替换版)
