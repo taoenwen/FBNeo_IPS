@@ -1,0 +1,12 @@
+#define	IPS_NOT_PROTECT
+
+268-p1cr.p1	mslug5nd_relay_p1
+268-p2cr.p2	mslug5nd_relay_p2
+268-p1cr.p1	ms5sgf_20211003_p1
+268-p2cr.p2	ms5sgf_20211003_p2
+
+[en_US]
+Overall/Remake FC2 - 20211003
+
+[zh_CN]
+整体修改/重制 FC2 - 20211003
