@@ -1,7 +1,7 @@
 #define	IPS_NOT_PROTECT
 
-268-p1cr.p1	mslug5n_relay_p1
-268-p2cr.p2	mslug5n_relay_p2
+268-p1cr.p1	mslug5nd_relay_p1
+268-p2cr.p2	mslug5nd_relay_p2
 268-p1cr.p1	mslug51v2_20190511_p1
 268-p2cr.p2	mslug51v2_20190511_p2
 
