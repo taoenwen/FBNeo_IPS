@@ -1,0 +1,21 @@
+#define	IPS_NOT_PROTECT
+#define	IPS_PRG1_EXPAND	0x300000
+
+268-p1cr.p1	mslug5nd_relay_p1
+268-p2cr.p2	mslug5nd_relay_p2
+268-p1cr.p1	mslug5cq_20240327_p1
+268-p2cr.p2	mslug5cq_20240327_p2
+268-c1c.c1	mslug5cq_20240327_c1
+268-c2c.c2	mslug5cq_20240327_c2
+268-c3c.c3	mslug5cq_20240327_c3
+268-c4c.c4	mslug5cq_20240327_c4
+268-c5c.c5	mslug5cq_20240327_c5
+268-c6c.c6	mslug5cq_20240327_c6
+268-c7c.c7	mslug5cq_20240327_c7
+268-c8c.c8	mslug5cq_20240327_c8
+
+[en_US]
+Overall/Legend - 20240327
+
+[zh_CN]
+整体修改/传奇 - 20240327
