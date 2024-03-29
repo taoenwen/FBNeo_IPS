@@ -1,0 +1,20 @@
+#define	IPS_NOT_PROTECT
+
+268-p1cr.p1	mslug5nd_relay_p1
+268-p2cr.p2	mslug5nd_relay_p2
+268-p1cr.p1	mslug5sc_20230612_p1
+268-p2cr.p2	mslug5sc_20230612_p2
+268-c1c.c1	mslug5sc_20230612_c1
+268-c2c.c2	mslug5sc_20230612_c2
+268-c3c.c3	mslug5sc_20230612_c3
+268-c4c.c4	mslug5sc_20230612_c4
+268-c5c.c5	mslug5sc_20230612_c5
+268-c6c.c6	mslug5sc_20230612_c6
+268-c7c.c7	mslug5sc_20230612_c7
+268-c8c.c8	mslug5sc_20230612_c8
+
+[en_US]
+Overall/Survival - 20230612
+
+[zh_CN]
+整体修改/生存 - 20230612
