@@ -1,19 +1,19 @@
 #define	IPS_NOT_PROTECT
 #define	IPS_SND1_EXPAND	EXP_VALUE_010
 
-268-p1cr.p1	mslug5w_20150227_p1
-268-p2cr.p2	mslug5w_20150227_p2
-268-c1c.c1	mslug5w_20150227_c1
-268-c2c.c2	mslug5w_20150227_c2
-268-c3c.c3	mslug5w_20150227_c3
-268-c4c.c4	mslug5w_20150227_c4
-268-c5c.c5	mslug5w_20150227_c5
-268-c6c.c6	mslug5w_20150227_c6
-268-c7c.c7	mslug5w_20150227_c7
-268-c8c.c8	mslug5w_20150227_c8
-268-m1.m1	mslug5w_20150227_m1
-268-v1c.v1	mslug5w_20150227_v1
-268-v2c.v2	mslug5w_20150227_v2
+268-p1cr.p1	mslug5w/mslug5w_20150227_p1
+268-p2cr.p2	mslug5w/mslug5w_20150227_p2
+268-c1c.c1	mslug5w/mslug5w_20150227_c1
+268-c2c.c2	mslug5w/mslug5w_20150227_c2
+268-c3c.c3	mslug5w/mslug5w_20150227_c3
+268-c4c.c4	mslug5w/mslug5w_20150227_c4
+268-c5c.c5	mslug5w/mslug5w_20150227_c5
+268-c6c.c6	mslug5w/mslug5w_20150227_c6
+268-c7c.c7	mslug5w/mslug5w_20150227_c7
+268-c8c.c8	mslug5w/mslug5w_20150227_c8
+268-m1.m1	mslug5w/mslug5w_20150227_m1
+268-v1c.v1	mslug5w/mslug5w_20150227_v1
+268-v2c.v2	mslug5w/mslug5w_20150227_v2
 
 [en_US]
 Overall/New Battle - 20150227

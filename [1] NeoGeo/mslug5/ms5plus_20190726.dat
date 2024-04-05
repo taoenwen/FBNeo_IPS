@@ -1,17 +1,17 @@
 #define	IPS_NOT_PROTECT
 
-268-p1cr.p1	ms5plus_relay_p1
-268-p2cr.p2	ms5plus_relay_p2
-268-c1c.c1	ms5plus_relay_c1
-268-c2c.c2	ms5plus_relay_c2
-268-c3c.c3	ms5plus_relay_c3
-268-c4c.c4	ms5plus_relay_c4
-268-c5c.c5	ms5plus_relay_c5
-268-c6c.c6	ms5plus_relay_c6
-268-c7c.c7	ms5plus_relay_c7
-268-c8c.c8	ms5plus_relay_c8
-268-p1cr.p1	ms5plus_20190726_p1
-268-p2cr.p2	ms5plus_20190726_p2
+268-p1cr.p1	ms5plus/ms5plus_relay_p1
+268-p2cr.p2	ms5plus/ms5plus_relay_p2
+268-c1c.c1	ms5plus/ms5plus_relay_c1
+268-c2c.c2	ms5plus/ms5plus_relay_c2
+268-c3c.c3	ms5plus/ms5plus_relay_c3
+268-c4c.c4	ms5plus/ms5plus_relay_c4
+268-c5c.c5	ms5plus/ms5plus_relay_c5
+268-c6c.c6	ms5plus/ms5plus_relay_c6
+268-c7c.c7	ms5plus/ms5plus_relay_c7
+268-c8c.c8	ms5plus/ms5plus_relay_c8
+268-p1cr.p1	ms5plus/ms5plus_20190726_p1
+268-p2cr.p2	ms5plus/ms5plus_20190726_p2
 
 [en_US]
 Overall/Plus - 20190726

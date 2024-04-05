@@ -1,9 +1,9 @@
 #define	IPS_NOT_PROTECT
 
-268-p1cr.p1	mslug5nd_relay_p1
-268-p2cr.p2	mslug5nd_relay_p2
-268-p1cr.p1	mslug5c_20190728_p1
-268-p2cr.p2	mslug5c_20190728_p2
+268-p1cr.p1	mslug5nd/mslug5nd_relay_p1
+268-p2cr.p2	mslug5nd/mslug5nd_relay_p2
+268-p1cr.p1	mslug5c/mslug5c_20190728_p1
+268-p2cr.p2	mslug5c/mslug5c_20190728_p2
 
 [en_US]
 Overall/Enemy Remix - 20190728

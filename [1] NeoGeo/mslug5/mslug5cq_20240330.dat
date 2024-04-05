@@ -1,18 +1,18 @@
 #define	IPS_NOT_PROTECT
 #define	IPS_PRG1_EXPAND	0x300000
 
-268-p1cr.p1	mslug5nd_relay_p1
-268-p2cr.p2	mslug5nd_relay_p2
-268-p1cr.p1	mslug5cq_20240330_p1
-268-p2cr.p2	mslug5cq_20240330_p2
-268-c1c.c1	mslug5cq_20240330_c1
-268-c2c.c2	mslug5cq_20240330_c2
-268-c3c.c3	mslug5cq_20240330_c3
-268-c4c.c4	mslug5cq_20240330_c4
-268-c5c.c5	mslug5cq_20240330_c5
-268-c6c.c6	mslug5cq_20240330_c6
-268-c7c.c7	mslug5cq_20240330_c7
-268-c8c.c8	mslug5cq_20240330_c8
+268-p1cr.p1	mslug5nd/mslug5nd_relay_p1
+268-p2cr.p2	mslug5nd/mslug5nd_relay_p2
+268-p1cr.p1	mslug5cq/mslug5cq_20240330_p1
+268-p2cr.p2	mslug5cq/mslug5cq_20240330_p2
+268-c1c.c1	mslug5cq/mslug5cq_20240330_c1
+268-c2c.c2	mslug5cq/mslug5cq_20240330_c2
+268-c3c.c3	mslug5cq/mslug5cq_20240330_c3
+268-c4c.c4	mslug5cq/mslug5cq_20240330_c4
+268-c5c.c5	mslug5cq/mslug5cq_20240330_c5
+268-c6c.c6	mslug5cq/mslug5cq_20240330_c6
+268-c7c.c7	mslug5cq/mslug5cq_20240330_c7
+268-c8c.c8	mslug5cq/mslug5cq_20240330_c8
 
 [en_US]
 Overall/Legend - 20240330

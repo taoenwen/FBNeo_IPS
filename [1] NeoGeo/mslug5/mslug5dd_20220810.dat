@@ -1,9 +1,9 @@
 #define	IPS_NOT_PROTECT
 
-268-p1cr.p1	mslug5nd_relay_p1
-268-p2cr.p2	mslug5nd_relay_p2
-268-p1cr.p1	mslug5dd_20220810_p1
-268-p2cr.p2	mslug5dd_20220810_p2
+268-p1cr.p1	mslug5nd/mslug5nd_relay_p1
+268-p2cr.p2	mslug5nd/mslug5nd_relay_p2
+268-p1cr.p1	mslug5dd/mslug5dd_20220810_p1
+268-p2cr.p2	mslug5dd/mslug5dd_20220810_p2
 
 [en_US]
 Overall/Starlight - 20220810
