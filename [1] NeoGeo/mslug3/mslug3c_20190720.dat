@@ -1,11 +1,11 @@
 #define	IPS_NOT_PROTECT
 
-green.neo-sma	mslug3h_relay_sma
-256-pg1.p1	mslug3h_relay_p1
-256-pg2.p2	mslug3h_relay_p2
-green.neo-sma	mslug3c_20190720_sma
-256-pg1.p1	mslug3c_20190720_p1
-256-pg2.p2	mslug3_FlashOff_p2
+green.neo-sma	mslug3h/mslug3h_relay_sma
+256-pg1.p1	mslug3h/mslug3h_relay_p1
+256-pg2.p2	mslug3h/mslug3h_relay_p2
+green.neo-sma	mslug3c/mslug3c_20190720_sma
+256-pg1.p1	mslug3c/mslug3c_20190720_p1
+256-pg2.p2	extra/mslug3_FlashOff_p2
 
 [en_US]
 Overall/Enemy Remix - 20190720

@@ -1,11 +1,11 @@
 #define	IPS_NOT_PROTECT
 
-green.neo-sma	mslug3h_relay_sma
-256-pg1.p1	mslug3h_relay_p1
-256-pg2.p2	mslug3h_relay_p2
-green.neo-sma	mslug3sd_20171217_sma
-256-pg1.p1	mslug3sd_20171217_p1
-256-pg2.p2	mslug3sd_20171217_p2
+green.neo-sma	mslug3h/mslug3h_relay_sma
+256-pg1.p1	mslug3h/mslug3h_relay_p1
+256-pg2.p2	mslug3h/mslug3h_relay_p2
+green.neo-sma	mslug3sd/mslug3sd_20171217_sma
+256-pg1.p1	mslug3sd/mslug3sd_20171217_p1
+256-pg2.p2	mslug3sd/mslug3sd_20171217_p2
 
 [en_US]
 Overall/Store - 20171217
