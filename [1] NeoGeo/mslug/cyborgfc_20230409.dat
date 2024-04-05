@@ -1,0 +1,18 @@
+#define	IPS_PRG1_EXPAND	0x200000
+#define	IPS_SND1_EXPAND	0x800000
+
+201-p1.p1	cyborgfc/cyborgfc_20230409_p1
+201-s1.s1	cyborgfc/cyborgfc_20230409_s1
+201-c1.c1	cyborgfc/cyborgfc_20230409_c1
+201-c2.c2	cyborgfc/cyborgfc_20230409_c2
+201-c3.c3	cyborgfc/cyborgfc_20230409_c3
+201-c4.c4	cyborgfc/cyborgfc_20230409_c4
+201-m1.m1	cyborgfc/cyborgfc_20230409_m1
+201-v1.v1	cyborgfc/cyborgfc_20230409_v1
+201-v2.v2	cyborgfc/cyborgfc_20230409_v2
+
+[en_US]
+Version/Cyborg Force (Homebrew) - 20230409
+
+[zh_CN]
+版本切换/生化部队 (自制) - 20230409
