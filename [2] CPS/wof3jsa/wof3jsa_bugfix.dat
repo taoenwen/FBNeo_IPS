@@ -1,7 +1,7 @@
-cx1.040	wof3jsa_bugfix_cx1
-cx2.040	wof3jsa_bugfix_cx2
-tx-a.160	wof3jsa_bugfix_a
-tx-b.160	wof3jsa_bugfix_b
+cx1.040	wof3jsa/wof3jsa_bugfix_cx1
+cx2.040	wof3jsa/wof3jsa_bugfix_cx2
+tx-a.160	wof3jsa/wof3jsa_bugfix_a
+tx-b.160	wof3jsa/wof3jsa_bugfix_b
 
 [en_US]
 Version/wof3jsa Bug Fix
