@@ -1,0 +1,14 @@
+u16.bin	grdiansa/grdiansa_relay_u18
+u20.bin	grdiansa/grdiansa_relay_u20
+u15.bin	grdiansa/grdiansa_relay_u17
+u19.bin	grdiansa/grdiansa_relay_u19
+u18.bin	grdiansa/grdiansa_relay_u22
+u22.bin	grdiansa/grdiansa_relay_u23
+u17.bin	grdiansa/grdiansa_relay_u1
+u21.bin	grdiansa/grdiansa_relay_u2
+
+[en_US]
+Version/grdiansa (P0-113A PCB)
+
+[zh_CN]
+版本切换/grdiansa (P0-113A PCB)
