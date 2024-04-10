@@ -1,0 +1,13 @@
+﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_008
+
+cde_23a.8f	dinou/dinou_relay_8f
+cde_22a.7f	dinou/dinou_relay_7f
+cde_23a.8f	dinoss/dinoss_20240406_8f
+cde_22a.7f	dinoss/dinoss_20240406_7f
+cde_21a.6f	dinoss/dinoss_20240406_6f
+
+[en_US]
+Overall/Competition - 20240406
+
+[zh_CN]
+整体修改/赛事 - 20240406
