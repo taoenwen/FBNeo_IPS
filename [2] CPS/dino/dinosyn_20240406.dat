@@ -1,0 +1,13 @@
+﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_008
+
+cde_23a.8f	dinoj/dinoj_relay_8f
+cde_22a.7f	dinoj/dinoj_relay_7f
+cde_23a.8f	dinosyn/dinosyn_20240406_8f
+cde_22a.7f	dinosyn/dinosyn_20240406_7f
+cde_21a.6f	dinosyn/dinosyn_20240406_6f
+
+[en_US]
+Overall/2020 Commemorative - 20240406
+
+[zh_CN]
+整体修改/2020 纪念 - 20240406
