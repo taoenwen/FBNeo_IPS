@@ -1,0 +1,26 @@
+#define	IPS_GRA1_EXPAND	EXP_VALUE_100
+
+262-p1-08-e0.p1	kof2001h/kof2001h_relay_p1
+262-p2-08-e0.sp2	kof2001h/kof2001h_relay_sp2
+262-p1-08-e0.p1	kf2k1pkz/kf2k1pkz_20210130_p1
+262-p2-08-e0.sp2	kf2k1pkz/kf2k1pkz_20210130_sp2
+262-c1-08-e0.c1	kf2k1pkz/kf2k1pkz_20210130_c1
+262-c2-08-e0.c2	kf2k1pkz/kf2k1pkz_20210130_c2
+262-c3-08-e0.c3	kf2k1pkz/kf2k1pkz_20210130_c3
+262-c4-08-e0.c4	kf2k1pkz/kf2k1pkz_20210130_c4
+262-c5-08-e0.c5	kf2k1pkz/kf2k1pkz_20210130_c5
+262-c6-08-e0.c6	kf2k1pkz/kf2k1pkz_20210130_c6
+262-c7-08-e0.c7	kf2k1pkz/kf2k1pkz_20210130_c7
+262-c8-08-e0.c8	kf2k1pkz/kf2k1pkz_20210130_c8
+265-262-m1.m1	kf2k1pkz/kf2k1pkz_20210130_m1
+262-v4-08-e0.v4	kf2k1pkz/kf2k1pkz_20210130_v4
+
+[en_US]
+Overall/PS2 Krizalid - 20210130
+
+must use AES mode
+
+[zh_CN]
+整体修改/PS2 Krizalid - 20210130
+
+必须使用 AES 模式

@@ -1,14 +1,16 @@
-262-p1-08-e0.p1	kof2k1bs_20101223_p1
-262-p2-08-e0.sp2	kof2k1bs_20101223_sp2
-262-c1-08-e0.c1	kof2k1bs_20101223_c1
-262-c2-08-e0.c2	kof2k1bs_20101223_c2
-262-c3-08-e0.c3	kof2k1bs_20101223_c3
-262-c4-08-e0.c4	kof2k1bs_20101223_c4
-262-c5-08-e0.c5	kof2k1bs_20101223_c5
-262-c6-08-e0.c6	kof2k1bs_20101223_c6
-262-c7-08-e0.c7	kof2k1bs_20101223_c7
-262-c8-08-e0.c8	kof2k1bs_20101223_c8
-265-262-m1.m1	kof2k1bs_20101223_m1
+262-p1-08-e0.p1	kof2001h/kof2001h_relay_p1
+262-p2-08-e0.sp2	kof2001h/kof2001h_relay_sp2
+262-p1-08-e0.p1	kof2k1bs/kof2k1bs_20101223_p1
+262-p2-08-e0.sp2	kof2k1bs/kof2k1bs_20101223_sp2
+262-c1-08-e0.c1	kof2k1bs/kof2k1bs_20101223_c1
+262-c2-08-e0.c2	kof2k1bs/kof2k1bs_20101223_c2
+262-c3-08-e0.c3	kof2k1bs/kof2k1bs_20101223_c3
+262-c4-08-e0.c4	kof2k1bs/kof2k1bs_20101223_c4
+262-c5-08-e0.c5	kof2k1bs/kof2k1bs_20101223_c5
+262-c6-08-e0.c6	kof2k1bs/kof2k1bs_20101223_c6
+262-c7-08-e0.c7	kof2k1bs/kof2k1bs_20101223_c7
+262-c8-08-e0.c8	kof2k1bs/kof2k1bs_20101223_c8
+265-262-m1.m1	kof2k1bs/kof2k1bs_20101223_m1
 
 [en_US]
 Overall/Boss - 20101223
@@ -16,6 +18,6 @@ Overall/Boss - 20101223
 must use AES mode
 
 [zh_CN]
-整体修改/Boss 版 - 20101223
+整体修改/Boss - 20101223
 
 必须使用 AES 模式
