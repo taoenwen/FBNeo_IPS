@@ -1,0 +1,11 @@
+ibara_u4	ibarao/ibarao_relay_u4
+futari15_u2	ibaracs/ibaracs_relay_u2_offs00
+futari15_u2	ibaracs/ibaracs_relay_u2_offs04	IPS_OFFSET_064
+futari15_u2	ibaracs/ibaracs_relay_u2_offs05	IPS_OFFSET_080
+futari15_u2	ibaracs/ibaracs_relay_u2_offs06	IPS_OFFSET_096
+
+[en_US]
+Version/ibaracs (2005-03-22 MASTER VER.. COLOR SAT)
+
+[zh_CN]
+版本切换/ibaracs (2005-03-22 MASTER VER.. COLOR SAT)
