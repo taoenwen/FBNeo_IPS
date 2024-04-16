@@ -1,0 +1,11 @@
+ibarablk_u4	ibarablka/ibarablka_relay_u4
+ibarablk_u2	ibarablka/ibarablka_relay_u2_0ffs00
+ibarablk_u2	ibarablka/ibarablka_relay_u2_0ffs06	IPS_OFFSET_096
+ibarablk_u2	ibarablka/ibarablka_relay_u2_0ffs07	IPS_OFFSET_112
+ibarablk_u2	ibarablka/ibarablka_relay_u2_0ffs08	IPS_OFFSET_128
+
+[en_US]
+Version/ibarablka (2006/02/06 MASTER VER.)
+
+[zh_CN]
+版本切换/ibarablka (2006/02/06 MASTER VER.)
