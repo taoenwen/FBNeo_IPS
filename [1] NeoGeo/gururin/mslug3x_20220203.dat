@@ -1,15 +1,15 @@
 ﻿#define	IPS_PRG1_EXPAND	0x80000
 #define	IPS_SND1_EXPAND	0xF80000
 
-067-p1.p1	mslug3x_20220203_p1
-067-s1.s1	mslug3x_20220203_s1
-067-c1.c1	mslug3x_20220203_c1
-067-c2.c2	mslug3x_20220203_c2
-067-m1.m1	mslug3x_20220203_m1
-067-v1.v1	mslug3x_20220203_v1
+067-p1.p1	mslug3x/mslug3x_20220203_p1
+067-s1.s1	mslug3x/mslug3x_20220203_s1
+067-c1.c1	mslug3x/mslug3x_20220203_c1
+067-c2.c2	mslug3x/mslug3x_20220203_c2
+067-m1.m1	mslug3x/mslug3x_20220203_m1
+067-v1.v1	mslug3x/mslug3x_20220203_v1
 
 [en_US]
-Version/mslug3x (Homebrew) - 20220203
+Version/Metal Slug 3X (Homebrew) - 20220203
 
 [zh_CN]
 版本切换/合金弹头彩蛋母舰大作战 (自制) - 20220203
