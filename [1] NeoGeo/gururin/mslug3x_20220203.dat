@@ -1,4 +1,4 @@
-﻿#define	IPS_PRG1_EXPAND	0x80000
+#define	IPS_PRG1_EXPAND	0x80000
 #define	IPS_SND1_EXPAND	0xF80000
 
 067-p1.p1	mslug3x/mslug3x_20220203_p1
