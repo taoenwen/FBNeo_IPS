@@ -1,12 +1,12 @@
 #define	IPS_GRA1_EXPAND	EXP_VALUE_040
 
-232-p1.p1	kof97xt_20090722_p1
-232-p2.sp2	kof97xt_20090722_sp2
-232-s1.s1	kof97xt_20090722_s1
-232-c1.c1	kof97xt_20090722_c1
-232-c2.c2	kof97xt_20090722_c2
-232-c5.c5	kof97xt_20090722_c5
-232-c6.c6	kof97xt_20090722_c6
+232-p1.p1	kof97xt/kof97xt_20090722_p1
+232-p2.sp2	kof97xt/kof97xt_20090722_sp2
+232-s1.s1	kof97xt/kof97xt_20090722_s1
+232-c1.c1	kof97xt/kof97xt_20090722_c1
+232-c2.c2	kof97xt/kof97xt_20090722_c2
+232-c5.c5	kof97xt/kof97xt_20090722_c5
+232-c6.c6	kof97xt/kof97xt_20090722_c6
 
 [en_US]
 Overall/Final Battle - 20090722
