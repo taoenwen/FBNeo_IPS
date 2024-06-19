@@ -1,0 +1,22 @@
+#define	IPS_NOT_PROTECT
+
+green.neo-sma	mslug3h/mslug3h_relay_sma
+256-pg1.p1	mslug3h/mslug3h_relay_p1
+256-pg2.p2	mslug3h/mslug3h_relay_p2
+green.neo-sma	mslug3fs/mslug3fs_20240613_sma
+256-pg1.p1	mslug3fs/mslug3fs_20240613_p1
+256-pg2.p2	mslug3fs/mslug3fs_20240613_p2
+256-c1.c1	mslug3fs/mslug3fs_20240613_c1
+256-c2.c2	mslug3fs/mslug3fs_20240613_c2
+256-c3.c3	mslug3fs/mslug3fs_20240613_c3
+256-c4.c4	mslug3fs/mslug3fs_20240613_c4
+256-c5.c5	mslug3fs/mslug3fs_20240613_c5
+256-c6.c6	mslug3fs/mslug3fs_20240613_c6
+256-c7.c7	mslug3fs/mslug3fs_20240613_c7
+256-c8.c8	mslug3fs/mslug3fs_20240613_c8
+
+[en_US]
+Overall/Firepower Showdown - 20240613
+
+[zh_CN]
+整体修改/传奇火力对决 - 20240613
