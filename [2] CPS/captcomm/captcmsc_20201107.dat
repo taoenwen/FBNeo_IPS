@@ -1,0 +1,16 @@
+#define	IPS_PRG1_EXPAND	0x1c0000
+#define	IPS_LOAD_EXPAND	0x0e0000
+
+cce_23f.8f	captcommr1/captcommr1_relay_8f
+cc_22f.7f	captcommr1/captcommr1_relay_7f
+cc_24f.9e	captcommr1/captcommr1_relay_9e
+cc_28f.9f	captcommr1/captcommr1_relay_9f
+cce_23f.8f	captcmsc/captcmsc_20201107_8f
+cc_24f.9e	captcmsc/captcmsc_20201107_9e
+cc_28f.9f	captcmsc/captcmsc_20201107_9f
+
+[en_US]
+Overall/Switchable Character - 20201107
+
+[zh_CN]
+整体修改/变身 - 20201107
