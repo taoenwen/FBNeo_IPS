@@ -1,0 +1,17 @@
+#define	IPS_PRG1_EXPAND	0x1c0000
+#define	IPS_LOAD_EXPAND	0x0e0000
+
+cce_23f.8f	captcommr1/captcommr1_relay_8f
+cc_22f.7f	captcommr1/captcommr1_relay_7f
+cc_24f.9e	captcommr1/captcommr1_relay_9e
+cc_28f.9f	captcommr1/captcommr1_relay_9f
+cce_23f.8f	captcmdw/captcmdw_20230223_8f
+cc_22f.7f	captcmdw/captcmdw_20230223_7f
+cc_24f.9e	captcmdw/captcmdw_20230223_9e
+cc_28f.9f	captcmdw/captcmdw_20230223_9f
+
+[en_US]
+Overall/Warriors - 20230223
+
+[zh_CN]
+整体修改/无双 - 20230223
