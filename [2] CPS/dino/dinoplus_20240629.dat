@@ -1,0 +1,13 @@
+﻿#define	IPS_PRG1_EXPAND	0x80000
+
+cde_23a.8f	dinou/dinou_relay_8f
+cde_22a.7f	dinou/dinou_relay_7f
+cde_23a.8f	dinoplus/dinoplus_20240629_8f
+cde_22a.7f	dinoplus/dinoplus_20240629_7f
+cde_21a.6f	dinoplus/dinoplus_20240629_6f
+
+[en_US]
+Overall/Judgement Day - 20240629
+
+[zh_CN]
+整体修改/审判之日 - 20240629
