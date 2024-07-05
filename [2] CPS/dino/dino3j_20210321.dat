@@ -1,4 +1,4 @@
-﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_008
+#define	IPS_PRG1_EXPAND	EXP_VALUE_008
 
 cde_23a.8f	dinoj/dinoj_relay_8f
 cde_22a.7f	dinoj/dinoj_relay_7f

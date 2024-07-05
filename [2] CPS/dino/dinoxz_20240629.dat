@@ -1,0 +1,13 @@
+#define	IPS_PRG1_EXPAND	0x80000
+
+cde_23a.8f	dinoj/dinoj_relay_8f
+cde_22a.7f	dinoj/dinoj_relay_7f
+cde_23a.8f	dinoxz/dinoxz_20240629_8f
+cde_22a.7f	dinoxz/dinoxz_20240629_7f
+cde_21a.6f	dinoxz/dinoxz_20240629_6f
+
+[en_US]
+Overall/Scream - 20240629
+
+[zh_CN]
+整体修改/杜瓦 - 20240629
