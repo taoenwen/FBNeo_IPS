@@ -1,0 +1,13 @@
+#define	IPS_PRG1_EXPAND	0x80000
+
+cde_23a.8f	dinou/dinou_relay_8f
+cde_22a.7f	dinou/dinou_relay_7f
+cde_23a.8f	dinojd/dinojd_20240406_8f
+cde_22a.7f	dinojd/dinojd_20240406_7f
+cde_21a.6f	dinojd/dinojd_20240406_6f
+
+[en_US]
+Overall/GOTVG 10th Anniversary - 20240406
+
+[zh_CN]
+整体修改/游聚十周年纪念 - 20240406
