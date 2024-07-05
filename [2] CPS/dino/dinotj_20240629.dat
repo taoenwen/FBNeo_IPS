@@ -1,0 +1,13 @@
+#define	IPS_PRG1_EXPAND	0x80000
+
+cde_23a.8f	dinoj/dinoj_relay_8f
+cde_22a.7f	dinoj/dinoj_relay_7f
+cde_23a.8f	dinotj/dinotj_20240629_8f
+cde_22a.7f	dinotj/dinotj_20240629_7f
+cde_21a.6f	dinotj/dinotj_20240629_6f
+
+[en_US]
+Overall/General - 20240629
+
+[zh_CN]
+整体修改/无名小妖 - 20240629

@@ -1,11 +1,11 @@
-#define	IPS_PRG1_EXPAND	EXP_VALUE_008
+#define	IPS_PRG1_EXPAND	0x80000
 
-cde_23a.8f	dinotw_20221011_8f
-cde_22a.7f	dinotw_20221027_7f
-cde_21a.6f	dinotw_20211029_6f
+cde_23a.8f	dinotw/dinotw_20221027_8f
+cde_22a.7f	dinotw/dinotw_20221027_7f
+cde_21a.6f	dinotw/dinotw_20221027_6f
 
 [en_US]
-Overall/Tian Wang - 20221027
+Overall/King - 20221027
 
 [zh_CN]
 整体修改/天王 - 20221027
