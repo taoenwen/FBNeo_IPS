@@ -1,20 +1,20 @@
-﻿#define	IPS_PRG1_EXPAND	EXP_VALUE_010
+#define	IPS_PRG1_EXPAND	EXP_VALUE_010
 
-tk2e_23c.8f	wofj_relay_8f
-tk2e_22c.7f	wofj_relay_7f
-tk2-5m.7a	wofj_relay_7a9a
-tk2-7m.9a	wofj_relay_8a10a
-tk2-6m.8a	wofj_relay_7a9a
-tk2-8m.10a	wofj_relay_8a10a
-tk2e_23c.8f	wofdrnb_8f
-tk2e_22c.7f	wofdrnb_7f
-tk2-5m.7a	wofdrnb_7a
-tk2-7m.9a	wofdrnb_8a
-tk2-6m.8a	wofdrnb_9a
-tk2-8m.10a	wofdrnb_10a
+tk2e_23c.8f	wofj/wofj_relay_8f
+tk2e_22c.7f	wofj/wofj_relay_7f
+tk2-5m.7a	wofj/wofj_relay_7a9a
+tk2-7m.9a	wofj/wofj_relay_8a10a
+tk2-6m.8a	wofj/wofj_relay_7a9a
+tk2-8m.10a	wofj/wofj_relay_8a10a
+tk2e_23c.8f	wofdrnb/wofdrnb_8f
+tk2e_22c.7f	wofdrnb/wofdrnb_7f
+tk2-5m.7a	wofdrnb/wofdrnb_7a
+tk2-7m.9a	wofdrnb/wofdrnb_8a
+tk2-6m.8a	wofdrnb/wofdrnb_9a
+tk2-8m.10a	wofdrnb/wofdrnb_10a
 
 [en_US]
-Overall/Da Ren Nue Boss - unknown
+Overall/Master abuses Boss - unknown
 
 [zh_CN]
-整体修改/达人版虐 Boss 版 - 未知
+整体修改/达人虐 Boss  - 未知
