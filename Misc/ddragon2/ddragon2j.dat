@@ -1,10 +1,10 @@
-26a9-04.bin	ddragon2j/ddragon2j_relay_ic38.ips
-26aa-03.bin	ddragon2j/ddragon2j_relay_ic52.ips
-26ac-0e.63 	ddragon2j/ddragon2j_relay_ic63.ips
-26ad-0.bin 	ddragon2j/ddragon2j_relay_ic41.ips
+26a9-04.bin	ddragon2j/ddragon2j_relay_26a9-0_j.ips
+26aa-03.bin	ddragon2j/ddragon2j_relay_26aa-0_j.ips
+26ac-0e.63 	ddragon2j/ddragon2j_relay_26ac-0_j.ips
+26ad-0.bin 	ddragon2j/ddragon2j_relay_26ad-0.ips
 
 [en_US]
 Version/Double Dragon II: The Revenge (Japan)
 
 [zh_CN]
-版本切换/双截龙 II: 复仇 (日版)
+版本切换/双截龙Ⅱ: 复仇 (日版)
