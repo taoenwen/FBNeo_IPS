@@ -1,0 +1,22 @@
+#define	IPS_PGM_MAPHACK
+#define	IPS_PGM_SNDOFFS
+#define	IPS_PRG1_EXPAND	0x200000
+#define	IPS_GRA2_EXPAND	0x100000
+#define	IPS_GRA3_EXPAND	0x100000
+#define	IPS_SND1_EXPAND	0x1000000
+#define	IPS_PRG2_EXPAND	0x200000
+
+pgm_t01s.rom	kov2pshjz/kov2pshjz_20250208_t01s
+v205_32m.u8	kov2pshjz/kov2pshjz_20250208_32m
+pgm_t1200.u21	kov2pshjz/kov2pshjz_20250208_t1200
+pgm_a1204.u10	kov2pshjz/kov2pshjz_20250208_a1204
+pgm_b1201.u7	kov2pshjz/kov2pshjz_20250208_b1201
+pgm_m1200.u3	kov2pshjz/kov2pshjz_20250208_m1200
+kov2p_igs027a_china.bin	kov2pshjz/kov2pshjz_20250208_igs027a
+v200_16m.u23	kov2pshjz/kov2pshjz_20250208_16m
+
+[en_US]
+Overall/Shuang Han Jiu Zhou - 20250208
+
+[zh_CN]
+整体修改/霜寒九州 - 20250208
