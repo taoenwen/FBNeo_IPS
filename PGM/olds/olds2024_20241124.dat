@@ -1,0 +1,23 @@
+#define	IPS_NOT_PROTECT
+#define	IPS_PRG1_EXPAND	0x180000
+
+sp_v101_u2.u2	olds103t/olds103t_relay_sp_v101_u2
+sp_v101_u3.u3	olds103t/olds103t_relay_sp_v101_u3
+sp_v101_u4.u4	olds103t/olds103t_relay_sp_v101_u4
+sp_v101_u5.u5	olds103t/olds103t_relay_sp_v101_u5
+sp_v101_u1.u1	olds103t/olds103t_relay_sp_v101_u1
+sp_v101_u2.u2	olds2024/olds2024_20241124_v101_u2
+sp_v101_u3.u3	olds2024/olds2024_20241124_v101_u3
+sp_v101_u4.u4	olds2024/olds2024_20241124_v101_u4
+sp_v101_u5.u5	olds2024/olds2024_20241124_v101_u5
+sp_v101_u1.u1	olds2024/olds2024_20241124_v101_u1
+
+[en_US]
+Overall/Plus 2024
+
+DIPSW to China
+
+[zh_CN]
+整体修改/加强 2024
+
+跳线将区域调整为中国
