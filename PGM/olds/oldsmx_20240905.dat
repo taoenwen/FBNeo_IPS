@@ -1,0 +1,22 @@
+#define	IPS_PRG1_EXPAND	0x180000
+
+sp_v101_u2.u2	olds100a/olds100a_relay_sp_v100a_u2
+sp_v101_u3.u3	olds100a/olds100a_relay_sp_v100a_u3
+sp_v101_u4.u4	olds100a/olds100a_relay_sp_v100a_u4
+sp_v101_u5.u5	olds100a/olds100a_relay_sp_v100a_u5
+sp_v101_u1.u1	olds100a/olds100a_relay_sp_v100a_u1
+sp_v101_u6.u6	olds100a/olds100a_relay_sp_v100a_u6
+sp_v101_u2.u2	oldsmx/oldsmx_20240905_v100a_u2
+sp_v101_u3.u3	oldsmx/oldsmx_20240905_v100a_u3
+sp_v101_u4.u4	oldsmx/oldsmx_20240905_v100a_u4
+sp_v101_u5.u5	oldsmx/oldsmx_20240905_v100a_u5
+sp_v101_u1.u1	oldsmx/oldsmx_20240905_v100a_u1
+pgm_t0500.u18	oldsmx/oldsmx_20240905_t0500
+pgm_a0506.u13	oldsmx/oldsmx_20240905_a0506
+pgm_b0503.u16	oldsmx/oldsmx_20240905_b0503
+
+[en_US]
+Overall/Xixing Ping Yao Ji - Meng Xun Ling Shan - 20240905
+
+[zh_CN]
+整体修改/西行平妖记 - 梦寻灵山 - 20240905
