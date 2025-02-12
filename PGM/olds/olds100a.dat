@@ -1,0 +1,14 @@
+#define	IPS_PRG1_EXPAND	0x180000
+
+sp_v101_u2.u2	olds100a/olds100a_relay_sp_v100a_u2
+sp_v101_u3.u3	olds100a/olds100a_relay_sp_v100a_u3
+sp_v101_u4.u4	olds100a/olds100a_relay_sp_v100a_u4
+sp_v101_u5.u5	olds100a/olds100a_relay_sp_v100a_u5
+sp_v101_u1.u1	olds100a/olds100a_relay_sp_v100a_u1
+sp_v101_u6.u6	olds100a/olds100a_relay_sp_v100a_u6
+
+[en_US]
+Version/Xiyou Shi E Zhuan Super (ver. 100, set 2)
+
+[zh_CN]
+版本切换/西游释厄传 Super (版本 100, 第二套)
