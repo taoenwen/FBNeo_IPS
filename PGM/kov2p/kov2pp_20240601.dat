@@ -1,0 +1,13 @@
+#define	IPS_PGM_MAPHACK
+
+v205_32m.u8	kov2p204/kov2p204_relay_32m
+v205_32m.u8	kov2pp/kov2pp_20240601_32m
+pgm_t1200.u21	kov2pp/kov2pp_20240601_t1200
+kov2p_igs027a_china.bin	kov2pp/kov2pp_20240601_igs027a
+v200_16m.u23	kov2pp/kov2pp_20240601_16m
+
+[en_US]
+Overall/Outstanding Heroes - 20240601
+
+[zh_CN]
+整体修改/盖世群雄 - 20240601
