@@ -1,15 +1,11 @@
-﻿v107_u18.u18	kov2100_relay_u18
-v102_u19.u19	kov2100_relay_u19
-v107_u18.u18	kov21001v3_20230730_u18
-v102_u19.u19	kov21001v3_20230730_u19
-kov2_v100_hongkong.asic	kov2jzqs_20230615_asic
+﻿v107_u18.u18	kov2100/kov2100_relay_u18
+v102_u19.u19	kov2100/kov2100_relay_u19
+v107_u18.u18	kov21001v3/kov21001v3_20230730_u18
+v102_u19.u19	kov21001v3/kov21001v3_20230730_u19
+kov2_v100_hongkong.asic	kov2jzqs/kov2jzqs_20230615_asic
 
 [en_US]
-Overall/v100 Green Blue - 20230730
-
-DIPSW to China
+Overall/v100 Qing - 20230730
 
 [zh_CN]
 整体修改/100 版青 - 20230730
-
-跳线将区域调整为中国
