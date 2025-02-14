@@ -1,17 +1,17 @@
 ﻿#define	IPS_PGM_MAPHACK
 #define	IPS_PGM_SNDOFFS
-#define	IPS_SND1_EXPAND	EXP_VALUE_100
-#define	IPS_PRG2_EXPAND	EXP_VALUE_010
+#define	IPS_SND1_EXPAND	0x1000000
+#define	IPS_PRG2_EXPAND	0x100000
 
-v107_u18.u18	kov2100_relay_u18
-v102_u19.u19	kov2100_relay_u19
-v107_u18.u18	kov2dzxx_20220208_u18
-pgm_t1200.u27	kov2dzxx_20220208_u27
-pgm_m1200.u3	kov2dzxx_20220208_u3
-kov2_v100_hongkong.asic	kov2dzxx_20220208_asic
-v102_u19.u19	kov2dzxx_20220208_u19
-pgm_t01s.rom	kov2dzxx_20220208_t01s
-pgm_p02s.u20	kov2dzxx_20220208_p02s
+v107_u18.u18	kov2100/kov2100_relay_u18
+v102_u19.u19	kov2100/kov2100_relay_u19
+v107_u18.u18	kov2dzxx/kov2dzxx_20220208_u18
+pgm_t1200.u27	kov2dzxx/kov2dzxx_20220208_u27
+pgm_m1200.u3	kov2dzxx/kov2dzxx_20220208_u3
+kov2_v100_hongkong.asic	kov2dzxx/kov2dzxx_20220208_asic
+v102_u19.u19	kov2dzxx/kov2dzxx_20220208_u19
+pgm_t01s.rom	kov2dzxx/kov2dzxx_20220208_t01s
+pgm_p02s.u20	kov2dzxx/kov2dzxx_20220208_p02s
 
 [en_US]
 Overall/Dou Zhuan Xing Xuan - 20220208
