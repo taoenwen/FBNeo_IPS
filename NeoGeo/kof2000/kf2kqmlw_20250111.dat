@@ -1,0 +1,27 @@
+#define	IPS_NOT_PROTECT
+#define	IPS_LOAD_EXPAND	0x800000
+#define	IPS_GRA1_EXPAND	0x1000000
+#define	IPS_SND1_EXPAND	0x400000
+
+neo-sma	kof2000n/kof2000n_relay_sma
+257-p1.p1	kof2000n/kof2000n_relay_p1
+257-p2.p2	kof2000n/kof2000n_relay_p2
+neo-sma	kf2kqmlw/kf2kqmlw_20250111_sma
+257-p1.p1	kf2kqmlw/kf2kqmlw_20250111_p1
+257-p2.p2	kf2kqmlw/kf2kqmlw_20250111_p2
+257-c1.c1	kf2kqmlw/kf2kqmlw_20250111_c1
+257-c2.c2	kf2kqmlw/kf2kqmlw_20250111_c2
+257-c3.c3	kf2kqmlw/kf2kqmlw_20250111_c3
+257-c4.c4	kf2kqmlw/kf2kqmlw_20250111_c4
+257-c5.c5	kf2kqmlw/kf2kqmlw_20250111_c5
+257-c6.c6	kf2kqmlw/kf2kqmlw_20250111_c6
+257-c7.c7	kf2kqmlw/kf2kqmlw_20250111_c7
+257-c8.c8	kf2kqmlw/kf2kqmlw_20250111_c8
+257-m1.m1	kf2kqmlw/kf2kqmlw_20250111_m1
+257-v4.v4	kf2kqmlw/kf2kqmlw_20250111_v4
+
+[en_US]
+Overall/All Boss - 20250111
+
+[zh_CN]
+整体修改/群魔乱舞 - 20250111
