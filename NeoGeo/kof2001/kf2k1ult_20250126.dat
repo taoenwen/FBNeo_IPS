@@ -1,0 +1,30 @@
+#define	IPS_LOAD_EXPAND	0x1800000
+#define	IPS_PRG1_EXPAND	0x100000
+#define	IPS_GRA1_EXPAND	0x3000000
+#define	IPS_SND1_EXPAND	0xC00000
+
+262-p1-08-e0.p1	kof2001h/kof2001h_relay_p1
+262-p2-08-e0.sp2	kof2001h/kof2001h_relay_sp2
+262-p1-08-e0.p1	kf2k1ult/kf2k1ult_20250126_p1
+262-p2-08-e0.sp2	kf2k1ult/kf2k1ult_20250126_sp2
+262-c1-08-e0.c1	kf2k1ult/kf2k1ult_20250126_c1
+262-c2-08-e0.c2	kf2k1ult/kf2k1ult_20250126_c2
+262-c3-08-e0.c3	kf2k1ult/kf2k1ult_20250126_c3
+262-c4-08-e0.c4	kf2k1ult/kf2k1ult_20250126_c4
+262-c5-08-e0.c5	kf2k1ult/kf2k1ult_20250126_c5
+262-c6-08-e0.c6	kf2k1ult/kf2k1ult_20250126_c6
+262-c7-08-e0.c7	kf2k1ult/kf2k1ult_20250126_c7_offs00
+262-c8-08-e0.c8	kf2k1ult/kf2k1ult_20250126_c8_offs00
+262-c7-08-e0.c7	kf2k1ult/kf2k1ult_20250126_c7_offs01	IPS_OFFSET_016
+262-c8-08-e0.c8	kf2k1ult/kf2k1ult_20250126_c8_offs01	IPS_OFFSET_016
+265-262-m1.m1	kf2k1ult/kf2k1ult_20250126_m1
+262-v1-08-e0.v1	kf2k1ult/kf2k1ult_20250126_v1
+262-v2-08-e0.v2	kf2k1ult/kf2k1ult_20250126_v2
+262-v3-08-e0.v3	kf2k1ult/kf2k1ult_20250126_v3
+262-v4-08-e0.v4	kf2k1ult/kf2k1ult_20250126_v4
+
+[en_US]
+Overall/All Boss Plus - 20250126
+
+[zh_CN]
+整体修改/终极 - 20250126
