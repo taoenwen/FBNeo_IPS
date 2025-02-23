@@ -1,0 +1,21 @@
+#define	IPS_PRG1_EXPAND	0x180000
+
+sp_v101_u2.u2	olds100a/olds100a_relay_sp_v100a_u2
+sp_v101_u3.u3	olds100a/olds100a_relay_sp_v100a_u3
+sp_v101_u4.u4	olds100a/olds100a_relay_sp_v100a_u4
+sp_v101_u5.u5	olds100a/olds100a_relay_sp_v100a_u5
+sp_v101_u1.u1	olds100a/olds100a_relay_sp_v100a_u1
+sp_v101_u6.u6	olds100a/olds100a_relay_sp_v100a_u6
+sp_v101_u2.u2	oldssm/oldssm_20240911_v100a_u2
+sp_v101_u3.u3	oldssm/oldssm_20240911_v100a_u3
+sp_v101_u4.u4	oldssm/oldssm_20240911_v100a_u4
+sp_v101_u5.u5	oldssm/oldssm_20240911_v100a_u5
+sp_v101_u1.u1	oldssm/oldssm_20240911_v100a_u1
+pgm_a0506.u13	oldssm/oldssm_20240911_a0506
+pgm_b0503.u16	oldssm/oldssm_20240911_b0503
+
+[en_US]
+Overall/Wu Zhi Shuangmo - 20240911
+
+[zh_CN]
+整体修改/舞之双魔 - 20240911
