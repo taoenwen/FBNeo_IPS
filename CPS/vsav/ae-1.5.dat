@@ -1,0 +1,44 @@
+﻿#define	IPS_NOT_PROTECT
+
+vm3.10b	10b
+vm3e.04d	04d
+vm3e.03d	03d
+
+[en_US]
+Overall/vsav - AE 1.5
+
+https://x.com/VMP_KyleW/status/1852098789898944623
+https://drive.google.com/file/d/14GCe0Ab4VPzmuZLCryY1dKdyB6qsKANt/view
+https://publish.obsidian.md/mbd/Projects/CPS2/AE+1.5/AE+1.5+Release+Notes
+https://publish.obsidian.md/mbd/Projects/CPS2/AE+1.5/AE+1.5+Notes
+
+<->
+Revision History 
+October 31, 2024, v1.5 
+Full details below, but briefly:
+
+Oboro is playable (and toggleable)
+There's a training mode (it's toggleable, too)
+There's an instant rematch now (optional for both players)
+Dark Gallon is easier to select
+Original versions of BI's 22PP deathblows vs BI and VI have a 50% chance to occur
+Demo match characters have colors other than LP now, and the demo matchups have been updated
+Title screen (the one with blue text -- er, well, it's orange now) has been updated to show more detailed version information
+Many Easter eggs
+A full writeup of changes, including code, can be found here
+September 10th, 2024, v1.41 
+Fix for MiSTer after encryption range updates in the CPS2 core.
+
+February 5th, 2022, v1.4 
+Bulleta's secret into occurs when she has a win streak, Luna (Concrete Cave Cat) looks during EX attacks, Abaraya's Lady's rage now occurs at a 50% chance when the conditions are met - was previously 1/32. Moebius used Palmod to add Jedah's Japanese blood colors + Forever Torment's blood color into the color banks.
+
+January 3rd, 2021, v1.3 
+Lei-Lei's ultra rare (MK) win-pose with a delayed Lin-Lin animation now has a condition that relies on the facing direction of Lei-Lei. Left-facing is in sync and right-facing is delayed.
+
+December 26th, 2020, v1.2 
+Fetus of God's stage/camera extents are now equal to every other stage in the game. Fetus of God has been added as a playable stage within the player-1 vs player-2 stage select chance tables. Now all stages have a 12/16 chance of being selected while stages associated to the selected characters have an additional 4/16 chance. Every stage, including Iron Horse Iron Terror & Fetus of God, is now available in every match while also having character's home stages maintain a higher probablility. Jedah's home stage is weighted towards Fetus of God.
+
+December 4th, 2020, v1.1 
+In player-1 versus player-2 mode, stage selection is no longer solely weighted by character selection. Now all stages have a 11/16 chance of being selected while stages associated to the selected characters have an additional 5/16 chance of being selected. Every stage, including Iron Horse Iron Terror, is now available in every match while also having character's home stages maintain a higher probablility.
+Each modification provides the decrypted address & data type for reference.
+<->
