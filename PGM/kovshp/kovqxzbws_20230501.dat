@@ -4,18 +4,18 @@
 #define	IPS_GRA3_EXPAND	EXP_VALUE_080
 #define	IPS_SND1_EXPAND	EXP_VALUE_080
 
-p0600h_101.rom	kovshp100/kovshp100_relay_m-100cn
-p0600h_101.rom	kovqxzbws/kovqxzbws_20230501_p0600h_101
-pgm_t0600.u2	kovqxzbws/kovqxzbws_20230501_t0600
-pgm_a0600.u3	kovqxzbws/kovqxzbws_20230501_a0600
-pgm_a0601.u4	kovqxzbws/kovqxzbws_20230501_a0601
-pgm_a0602.u6	kovqxzbws/kovqxzbws_20230501_a0602
-igs_a05401w064.u8	kovqxzbws/kovqxzbws_20230501_a05401w064_offs00
-igs_a05401w064.u8	kovqxzbws/kovqxzbws_20230501_a05401w064_offs01	IPS_OFFSET_016
-pgm_b0600.u9	kovqxzbws/kovqxzbws_20230501_b0600
-igs_b05401w064.u11	kovqxzbws/kovqxzbws_20230501_b05401w064
-pgm_m0600.u5	kovqxzbws/kovqxzbws_20230501_m0600
-kovsh_v100_china.asic	kovqxzbws/kovqxzbws_20230501_v100_china
+p0600h_101.rom	./kovshp100/kovshp100_relay_m-100cn
+p0600h_101.rom	./kovqxzbws/kovqxzbws_20230501_p0600h_101
+pgm_t0600.u2	./kovqxzbws/kovqxzbws_20230501_t0600
+pgm_a0600.u3	./kovqxzbws/kovqxzbws_20230501_a0600
+pgm_a0601.u4	./kovqxzbws/kovqxzbws_20230501_a0601
+pgm_a0602.u6	./kovqxzbws/kovqxzbws_20230501_a0602
+igs_a05401w064.u8	./kovqxzbws/kovqxzbws_20230501_a05401w064_offs00
+igs_a05401w064.u8	./kovqxzbws/kovqxzbws_20230501_a05401w064_offs01	IPS_OFFSET_016
+pgm_b0600.u9	./kovqxzbws/kovqxzbws_20230501_b0600
+igs_b05401w064.u11	./kovqxzbws/kovqxzbws_20230501_b05401w064
+pgm_m0600.u5	./kovqxzbws/kovqxzbws_20230501_m0600
+kovsh_v100_china.asic	./kovqxzbws/kovqxzbws_20230501_v100_china
 
 [en_US]
 Overall/Qunxiong Zhengba Fengyun Zaiqi Wushuang - 20230501

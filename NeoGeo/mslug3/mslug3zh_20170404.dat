@@ -1,9 +1,9 @@
 #define	IPS_NOT_PROTECT
 #include mslug3h
 
-green.neo-sma	mslug3zh/mslug3zh_20170404_sma
-256-pg1.p1		mslug3zh/mslug3zh_20170404_p1
-256-pg2.p2		mslug3zh/mslug3zh_20170404_p2
+green.neo-sma	./mslug3zh/mslug3zh_20170404_sma
+256-pg1.p1		./mslug3zh/mslug3zh_20170404_p1
+256-pg2.p2		./mslug3zh/mslug3zh_20170404_p2
 
 [en_US]
 Overall/Vehicle Summon - 20170404

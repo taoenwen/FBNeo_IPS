@@ -1,11 +1,11 @@
 #define	IPS_NOT_PROTECT
 
-ka.neo-sma	kof99ka/kof99ka_relay_sma
-251-p1.p1	kof99ka/kof99ka_relay_p1
-251-p2.p2	kof99ka/kof99ka_relay_p2
-ka.neo-sma	kof99sk/kof99sk_20250309_sma
-251-p1.p1	kof99sk/kof99sk_20250309_p1
-251-p2.p2	kof99sk/kof99sk_20250309_p2
+ka.neo-sma	./kof99ka/kof99ka_relay_sma
+251-p1.p1	./kof99ka/kof99ka_relay_p1
+251-p2.p2	./kof99ka/kof99ka_relay_p2
+ka.neo-sma	./kof99sk/kof99sk_20250309_sma
+251-p1.p1	./kof99sk/kof99sk_20250309_p1
+251-p2.p2	./kof99sk/kof99sk_20250309_p2
 
 [en_US]
 Overall/LC+SK - 20250309

@@ -4,18 +4,18 @@
 #define	IPS_GRA3_EXPAND	0x800000
 #define	IPS_SND1_EXPAND	0x800000
 
-p0600h_101.rom	kovshp100/kovshp100_relay_m-100cn
-p0600h_101.rom	kovqyhc/kovqyhc_20250309_p0600h_101
-pgm_t0600.u2	kovqyhc/kovqyhc_20250309_t0600
-pgm_a0600.u3	kovqyhc/kovqyhc_20250309_a0600
-pgm_a0601.u4	kovqyhc/kovqyhc_20250309_a0601
-pgm_a0602.u6	kovqyhc/kovqyhc_20250309_a0602
-igs_a05401w064.u8	kovqyhc/kovqyhc_20250309_a05401w064_offs00
-igs_a05401w064.u8	kovqyhc/kovqyhc_20250309_a05401w064_offs01	IPS_OFFSET_016
-pgm_b0600.u9	kovqyhc/kovqyhc_20250309_b0600
-igs_b05401w064.u11	kovqyhc/kovqyhc_20250309_b05401w064
-pgm_m0600.u5	kovqyhc/kovqyhc_20250309_m0600
-kovsh_v100_china.asic	kovqyhc/kovqyhc_20250309_v100_china
+p0600h_101.rom	./kovshp100/kovshp100_relay_m-100cn
+p0600h_101.rom	./kovqyhc/kovqyhc_20250309_p0600h_101
+pgm_t0600.u2	./kovqyhc/kovqyhc_20250309_t0600
+pgm_a0600.u3	./kovqyhc/kovqyhc_20250309_a0600
+pgm_a0601.u4	./kovqyhc/kovqyhc_20250309_a0601
+pgm_a0602.u6	./kovqyhc/kovqyhc_20250309_a0602
+igs_a05401w064.u8	./kovqyhc/kovqyhc_20250309_a05401w064_offs00
+igs_a05401w064.u8	./kovqyhc/kovqyhc_20250309_a05401w064_offs01	IPS_OFFSET_016
+pgm_b0600.u9	./kovqyhc/kovqyhc_20250309_b0600
+igs_b05401w064.u11	./kovqyhc/kovqyhc_20250309_b05401w064
+pgm_m0600.u5	./kovqyhc/kovqyhc_20250309_m0600
+kovsh_v100_china.asic	./kovqyhc/kovqyhc_20250309_v100_china
 
 [en_US]
 Overall/Assemblage of Heroes - 20250309

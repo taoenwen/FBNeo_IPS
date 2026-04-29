@@ -1,8 +1,8 @@
 #define	IPS_NOT_PROTECT
 #include mslug3h
 
-green.neo-sma	mslug3e/mslug3e_20210430_sma
-256-pg2.p2		mslug3e/mslug3e_20210430_p2
+green.neo-sma	./mslug3e/mslug3e_20210430_sma
+256-pg2.p2		./mslug3e/mslug3e_20210430_p2
 
 [en_US]
 Overall/Enhanced - 20221104

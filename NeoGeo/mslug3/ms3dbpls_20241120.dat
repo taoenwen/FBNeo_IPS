@@ -1,9 +1,9 @@
 #define	IPS_NOT_PROTECT
 #include mslug3h
 
-green.neo-sma	ms3dbpls/ms3dbpls_20241120_sma
-256-pg1.p1		ms3dbpls/ms3dbpls_20241120_p1
-256-pg2.p2		ms3dbpls/ms3dbpls_20241120_p2
+green.neo-sma	./ms3dbpls/ms3dbpls_20241120_sma
+256-pg1.p1		./ms3dbpls/ms3dbpls_20241120_p1
+256-pg2.p2		./ms3dbpls/ms3dbpls_20241120_p2
 
 [en_US]
 Overall/Double Enemy - 20241120

@@ -1,10 +1,10 @@
 ﻿#define	IPS_PGM_MAPHACK
 
-v107_u18.u18	kov2106/kov2106_relay_u18
-v107_u18.u18	kov2jzqs/kov2jzqs_20230615_u18
-pgm_t1200.u27	kov2jzqs/kov2jzqs_20230615_u27
-v102_u19.u19	kov2jzqs/kov2jzqs_20230615_u19
-kov2_v100_hongkong.asic	kov2jzqs/kov2jzqs_20230615_asic
+v107_u18.u18	./kov2106/kov2106_relay_u18
+v107_u18.u18	./kov2jzqs/kov2jzqs_20230615_u18
+pgm_t1200.u27	./kov2jzqs/kov2jzqs_20230615_u27
+v102_u19.u19	./kov2jzqs/kov2jzqs_20230615_u19
+kov2_v100_hongkong.asic	./kov2jzqs/kov2jzqs_20230615_asic
 
 [en_US]
 Overall/Juezhan Qiu Sheng - 20230615

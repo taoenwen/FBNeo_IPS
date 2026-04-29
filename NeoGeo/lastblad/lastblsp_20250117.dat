@@ -1,13 +1,13 @@
 #define	IPS_PRG1_EXPAND	0x200000
 #define	IPS_EXTROM_INCL	0x20000
 
-234-p1.p1	lastbladh/lastbladh_relay_p1
-234-p1.p1	lastblsp/lastblsp_20250117_p1
-234-p2.sp2	lastblsp/lastblsp_20250117_sp2
-234-c5.c5	lastblsp/lastblsp_20250117_c5
-234-c6.c6	lastblsp/lastblsp_20250117_c6
-234-m1.m1	lastblsp/lastblsp_20250117_m1
-234-v4.v4	lastblsp/lastblsp_20250117_v4
+234-p1.p1	./lastbladh/lastbladh_relay_p1
+234-p1.p1	./lastblsp/lastblsp_20250117_p1
+234-p2.sp2	./lastblsp/lastblsp_20250117_sp2
+234-c5.c5	./lastblsp/lastblsp_20250117_c5
+234-c6.c6	./lastblsp/lastblsp_20250117_c6
+234-m1.m1	./lastblsp/lastblsp_20250117_m1
+234-v4.v4	./lastblsp/lastblsp_20250117_v4
 
 [en_US]
 Overall/Special 2017 v2.5 FINAL - 20250117

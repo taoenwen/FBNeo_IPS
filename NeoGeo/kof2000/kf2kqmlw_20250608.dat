@@ -4,19 +4,19 @@
 #define	IPS_SND1_EXPAND	0x400000
 #include kof2000n
 
-neo-sma		kf2kqmlw/kf2kqmlw_20250608_sma
-257-p1.p1	kf2kqmlw/kf2kqmlw_20250608_p1
-257-p2.p2	kf2kqmlw/kf2kqmlw_20250608_p2
-257-c1.c1	kf2kqmlw/kf2kqmlw_20250608_c1
-257-c2.c2	kf2kqmlw/kf2kqmlw_20250608_c2
-257-c3.c3	kf2kqmlw/kf2kqmlw_20250608_c3
-257-c4.c4	kf2kqmlw/kf2kqmlw_20250608_c4
-257-c5.c5	kf2kqmlw/kf2kqmlw_20250608_c5
-257-c6.c6	kf2kqmlw/kf2kqmlw_20250608_c6
-257-c7.c7	kf2kqmlw/kf2kqmlw_20250608_c7
-257-c8.c8	kf2kqmlw/kf2kqmlw_20250608_c8
-257-m1.m1	kf2kqmlw/kf2kqmlw_20250608_m1
-257-v4.v4	kf2kqmlw/kf2kqmlw_20250608_v4
+neo-sma		./kf2kqmlw/kf2kqmlw_20250608_sma
+257-p1.p1	./kf2kqmlw/kf2kqmlw_20250608_p1
+257-p2.p2	./kf2kqmlw/kf2kqmlw_20250608_p2
+257-c1.c1	./kf2kqmlw/kf2kqmlw_20250608_c1
+257-c2.c2	./kf2kqmlw/kf2kqmlw_20250608_c2
+257-c3.c3	./kf2kqmlw/kf2kqmlw_20250608_c3
+257-c4.c4	./kf2kqmlw/kf2kqmlw_20250608_c4
+257-c5.c5	./kf2kqmlw/kf2kqmlw_20250608_c5
+257-c6.c6	./kf2kqmlw/kf2kqmlw_20250608_c6
+257-c7.c7	./kf2kqmlw/kf2kqmlw_20250608_c7
+257-c8.c8	./kf2kqmlw/kf2kqmlw_20250608_c8
+257-m1.m1	./kf2kqmlw/kf2kqmlw_20250608_m1
+257-v4.v4	./kf2kqmlw/kf2kqmlw_20250608_v4
 
 [en_US]
 Overall/All Boss - 20250608

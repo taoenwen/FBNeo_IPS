@@ -2,11 +2,11 @@
 #define	IPS_PRG1_EXPAND	0x180000
 #include olds103t
 
-sp_v101_u2.u2	olds2024/olds2024_20250601_v103_u2
-sp_v101_u3.u3	olds2024/olds2024_20250601_v103_u3
-sp_v101_u4.u4	olds2024/olds2024_20250601_v103_u4
-sp_v101_u5.u5	olds2024/olds2024_20250601_v103_u5
-sp_v101_u1.u1	olds2024/olds2024_20250601_v103_u1
+sp_v101_u2.u2	./olds2024/olds2024_20250601_v103_u2
+sp_v101_u3.u3	./olds2024/olds2024_20250601_v103_u3
+sp_v101_u4.u4	./olds2024/olds2024_20250601_v103_u4
+sp_v101_u5.u5	./olds2024/olds2024_20250601_v103_u5
+sp_v101_u1.u1	./olds2024/olds2024_20250601_v103_u1
 
 [en_US]
 Overall/Plus 2024 - 20250601

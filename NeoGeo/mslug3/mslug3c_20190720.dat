@@ -1,8 +1,8 @@
 #define	IPS_NOT_PROTECT
 #include mslug3h
 
-green.neo-sma	mslug3c/mslug3c_20190720_sma
-256-pg1.p1		mslug3c/mslug3c_20190720_p1
+green.neo-sma	./mslug3c/mslug3c_20190720_sma
+256-pg1.p1		./mslug3c/mslug3c_20190720_p1
 
 #include mslug3_FlashOff
 

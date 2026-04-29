@@ -1,5 +1,5 @@
-pcfu.03		pfghtj/pfghtj_relay_03
-sgemf.key	pfghtj/pfghtj_relay_key
+pcfu.03		./pfghtj/pfghtj_relay_03
+sgemf.key	./pfghtj/pfghtj_relay_key
 
 [en_US]
 Version/Pocket Fighter (Japan 970904)

@@ -1,10 +1,10 @@
-﻿pcfu.03		pfghtj/pfghtj_relay_03			CRC(ac2e8566)
-sgemf.key	pfghtj/pfghtj_relay_key			CRC(3d604021)
-pcf.04		pfghtsc/pfghtsc_20250528_04		CRC(f4314c96)
-pcf.13m		pfghtsc/pfghtsc_20250528_13m	CRC(22d72ab9)
-pcf.15m		pfghtsc/pfghtsc_20250528_15m	CRC(16a4813c)
-pcf.17m		pfghtsc/pfghtsc_20250528_17m	CRC(1097e035)
-pcf.19m		pfghtsc/pfghtsc_20250528_19m	CRC(3d604021)
+﻿pcfu.03		./pfghtj/pfghtj_relay_03			CRC(ac2e8566)
+sgemf.key	./pfghtj/pfghtj_relay_key			CRC(3d604021)
+pcf.04		./pfghtsc/pfghtsc_20250528_04		CRC(f4314c96)
+pcf.13m		./pfghtsc/pfghtsc_20250528_13m	CRC(22d72ab9)
+pcf.15m		./pfghtsc/pfghtsc_20250528_15m	CRC(16a4813c)
+pcf.17m		./pfghtsc/pfghtsc_20250528_17m	CRC(1097e035)
+pcf.19m		./pfghtsc/pfghtsc_20250528_19m	CRC(3d604021)
 
 [en_US]
 Translation/Simplified Chinese - 20250528

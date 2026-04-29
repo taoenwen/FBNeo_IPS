@@ -1,12 +1,12 @@
 #define	IPS_PRG1_EXPAND	0x200000
 
-263-p1.p1	mslug4zj/mslug4zj_20250213_p1
-263-p2.sp2	mslug4zj/mslug4zj_20250213_sp2
-263-c5.c5	mslug4zj/mslug4zj_20250213_c5
-263-c6.c6	mslug4zj/mslug4zj_20250213_c6
-263-m1.m1	mslug4zj/mslug4zj_20250213_m1
-263-v1.v1	mslug4zj/mslug4zj_20250213_v1
-263-v2.v2	mslug4zj/mslug4zj_20250213_v2
+263-p1.p1	./mslug4zj/mslug4zj_20250213_p1
+263-p2.sp2	./mslug4zj/mslug4zj_20250213_sp2
+263-c5.c5	./mslug4zj/mslug4zj_20250213_c5
+263-c6.c6	./mslug4zj/mslug4zj_20250213_c6
+263-m1.m1	./mslug4zj/mslug4zj_20250213_m1
+263-v1.v1	./mslug4zj/mslug4zj_20250213_v1
+263-v2.v2	./mslug4zj/mslug4zj_20250213_v2
 
 [en_US]
 Overall/Final - 20250213
