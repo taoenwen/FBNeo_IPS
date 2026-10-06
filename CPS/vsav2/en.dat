@@ -1,0 +1,74 @@
+﻿vs2j.03	./en/vs2j.03
+vs2j.04	./en/vs2j.04
+vs2j.08	./en/vs2j.08
+
+[en_US]
+English translation
+
+Vampire Savior 2 — English translation
+======================================
+
+Version:  rc1 (2026-07-10)
+Target:   MAME set 'vsav2' — Vampire Savior 2: The Lord of Vampire (Japan 970913)
+Hardware: Capcom CPS-2
+Patch by: Steve Gordon (https://x.com/strygo)
+
+ABOUT THIS PROJECT
+
+Vampire Savior 2 is a Japan-only update of Vampire Savior with a shuffled
+roster — Donovan, Huitzil, and Pyron join the fight, while Gallon, Aulbath,
+and Sasquatch sit this one out — plus its own set of endings. It never came
+out in English. This patch translates the entire game.
+
+Where the dialogue matches the Western release of Vampire Savior, the patch
+reuses Capcom's own English so it reads like the official localization. The
+lines unique to this version — the quotes for Huitzil, Pyron, and Donovan,
+along with every ending and the final confrontation with Jedah — are newly
+translated to read naturally while staying true to the original.
+
+The title screen keeps the Vampire Savior 2 name, which is how the game
+appeared in arcades. 'Darkstalkers 3' was a later name used only for the home
+versions.
+
+WHAT'S CHANGED
+
+  - USA region presentation
+  - Western character names on character select, route map, and fight HUD:
+    Bulleta → Baby Bonnie Hood, Zabel → L.Raptor, Lei-Lei → Hsien-Ko, Phobos →
+    Huitzil
+  - All 241 post-fight quotes in English (192 official arcade records reused
+    verbatim, 48 VS2-only records newly translated)
+  - All 29 ending pages and both 4-page Jedah final-boss dialogs translated
+    and relocated into verified free ROM space
+  - Route stage names and option labels verified byte-identical to the
+    official U.S. arcade records
+
+HOW TO APPLY (recommended)
+
+    python3 apply.py /path/to/vsav2.zip
+
+This verifies every file, applies the IPS patches, and writes
+vsav2_patched.zip. Rename it to vsav2.zip and place it ahead of
+the stock set in your MAME rompath. MAME reports checksum warnings for
+the patched program ROMs; that is expected and the game runs normally.
+
+HOW TO APPLY (any IPS patcher)
+
+Extract vsav2.zip, apply each file in ips/ to the ROM file of the
+same name (Flips, Lunar IPS, or any IPS tool), then re-zip everything
+as vsav2.zip.
+
+CHANGED FILES
+
+    vs2j.03  (512 KB)  CRC32 89fd86b4 -> a211712c
+    vs2j.04  (512 KB)  CRC32 107c091b -> 974896f9
+    vs2j.08  (512 KB)  CRC32 2018c120 -> cb8b85c6
+
+All other files in the set are unmodified.
+
+LEGAL
+
+This is a free, unofficial fan patch. It is not affiliated with or endorsed
+by Capcom. All game titles, characters, and artwork remain the property of
+their respective owners. You must own the game to use this patch. Do not
+sell this patch or distribute it applied to a ROM image.

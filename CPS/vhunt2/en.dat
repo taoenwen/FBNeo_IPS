@@ -1,0 +1,75 @@
+﻿vh2j.03a	./en/vh2j.03a
+vh2j.04a	./en/vh2j.04a
+vh2j.08	./en/vh2j.08
+
+[en_US]
+English translation
+
+Night Warriors 2 — Vampire Hunter 2 — English translation
+=========================================================
+
+Version:  rc1 (2026-07-10)
+Target:   MAME set 'vhunt2' — Vampire Hunter 2: Darkstalkers Revenge (Japan 970929)
+Hardware: Capcom CPS-2
+Patch by: Steve Gordon (https://x.com/strygo)
+
+ABOUT THIS PROJECT
+
+Vampire Hunter 2 is a 1997 Capcom fighter that only ever reached Japanese
+arcades. Its predecessor came to the West as Night Warriors: Darkstalkers'
+Revenge, but this sequel never made the trip. This patch translates the whole
+game into English and gives it the Western name it should have had: Night
+Warriors 2.
+
+The Night Warriors 2 title screen isn't a fan mock-up. An unused Western title
+was already tucked away inside the original game — the patch finishes it and
+switches it on, leaving the gameplay exactly as it was.
+
+Where Capcom's own English wording exists in the Western Darkstalkers games,
+the patch reuses it so the writing matches the official localization.
+Everything else — the victory taunts, the boss exchanges, and every
+character's ending — is freshly translated and checked in the actual game.
+
+WHAT'S CHANGED
+
+  - Arcade-native Night Warriors 2 title screen, built from the ROM's unused
+    Western title path
+  - USA region presentation (warning screen and region byte)
+  - Western character names on character select, route map labels, and the
+    fight HUD: Zabel → L.Raptor, Gallon → J.Talbain, Lei-Lei → Hsien-Ko,
+    Phobos → Huitzil, Aulbath → Rikuo
+  - English route/stage titles
+  - All 225 post-fight quotes in English
+  - All boss dialog and every character ending translated (44 records,
+    verified on natural routes)
+  - English staff roll under the Night Warriors 2 name
+
+HOW TO APPLY (recommended)
+
+    python3 apply.py /path/to/vhunt2.zip
+
+This verifies every file, applies the IPS patches, and writes
+vhunt2_patched.zip. Rename it to vhunt2.zip and place it ahead of
+the stock set in your MAME rompath. MAME reports checksum warnings for
+the patched program ROMs; that is expected and the game runs normally.
+
+HOW TO APPLY (any IPS patcher)
+
+Extract vhunt2.zip, apply each file in ips/ to the ROM file of the
+same name (Flips, Lunar IPS, or any IPS tool), then re-zip everything
+as vhunt2.zip.
+
+CHANGED FILES
+
+    vh2j.03a  (512 KB)  CRC32 9ae8f186 -> 1ce8d926
+    vh2j.04a  (512 KB)  CRC32 e2fabf53 -> 6b232eae
+    vh2j.08  (512 KB)  CRC32 ac873dff -> be9d8a6c
+
+All other files in the set are unmodified.
+
+LEGAL
+
+This is a free, unofficial fan patch. It is not affiliated with or endorsed
+by Capcom. All game titles, characters, and artwork remain the property of
+their respective owners. You must own the game to use this patch. Do not
+sell this patch or distribute it applied to a ROM image.
